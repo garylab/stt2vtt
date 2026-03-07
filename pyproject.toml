@@ -27,7 +27,7 @@ dependencies = [
 ]
 
 [project.scripts]
-stt2vtt = "src.cli:main"
+stt2vtt = "stt2vtt.cli:main"
 
 [project.optional-dependencies]
 dev = [
@@ -50,4 +50,4 @@ version_scheme = "post-release"
 local_scheme = "no-local-version"
 
 [tool.setuptools]
-packages = ["src"]
+packages = ["stt2vtt"]

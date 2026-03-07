@@ -35,10 +35,10 @@ cat result.json | stt2vtt -o output.vtt
 ### Python
 
 ```python
-from src.stt_to_vtt import stt_to_vtt
+import stt2vtt
 
-# List of segments, or JSON string of that list (fast-whisper format)
-vtt = stt_to_vtt('[{"start": 0, "end": 1.5, "text": " Hello world.", "words": [{"start": 0, "end": 0.5, "word": " Hello"}, {"start": 0.5, "end": 1.5, "word": " world."}]}]')
+# Call the package: list of segments, or JSON string of that list (fast-whisper format)
+vtt = stt2vtt('[{"start": 0, "end": 1.5, "text": " Hello world.", "words": [{"start": 0, "end": 0.5, "word": " Hello"}, {"start": 0.5, "end": 1.5, "word": " world."}]}]')
 
 print(vtt)  # "WEBVTT\n\n00:00:00.000 --> ..."
 ```

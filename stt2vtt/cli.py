@@ -5,7 +5,7 @@ import sys
 import argparse
 from pathlib import Path
 
-from .stt_to_vtt import stt_to_vtt
+from ._core import stt_to_vtt
 
 __version__ = "0.1.0"
 

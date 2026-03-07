@@ -5,7 +5,7 @@ from pathlib import Path
 
 from pydantic import ValidationError
 
-from src.stt_to_vtt import stt_to_vtt, STOP_CHARS, _seconds_to_vtt_time, _end_with_stop_char
+from stt2vtt._core import stt_to_vtt, STOP_CHARS, _seconds_to_vtt_time, _end_with_stop_char
 
 FILES_DIR = Path(__file__).parent / "test_data"
 

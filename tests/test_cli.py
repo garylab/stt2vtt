@@ -1,7 +1,7 @@
 import pytest
 from unittest.mock import patch
 
-from src.cli import main
+from stt2vtt.cli import main
 
 
 @patch('sys.argv', ['stt2vtt', '--help'])
