@@ -5,7 +5,7 @@ from pathlib import Path
 
 from src.stt_to_vtt import stt_to_vtt, STOP_CHARS, _seconds_to_vtt_time, _end_with_stop_char
 
-FILES_DIR = Path(__file__).parent / "test_data"
+FILES_DIR = Path(__file__) / "test_data"
 
 
 def _discover_input_expected_pairs():
