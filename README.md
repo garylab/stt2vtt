@@ -1,6 +1,6 @@
 # stt2vtt
 
-Convert **fast-whisper** STT results with timestamps to WebVTT. Input is JSON from [faster-whisper](https://github.com/SYSTRAN/faster-whisper) (or compatible segment + word timestamps). Output is VTT text.
+Convert **fast-whisper** STT results with timestamps to WebVTT. Input is a list of segments (or a JSON string of that list) from [faster-whisper](https://github.com/SYSTRAN/faster-whisper) or compatible segment + word timestamps. Output is VTT text.
 
 No audio processing or ML models — this repo only converts existing STT JSON to VTT.
 
@@ -21,11 +21,12 @@ pip install stt2vtt[dev]
 ### CLI
 
 ```bash
-# From file
-stt2vtt result.json -o output.vtt
-
-# To stdout
+# From file (writes <stem>.vtt in current directory by default)
 stt2vtt result.json
+# → result.vtt
+
+# Custom output path
+stt2vtt result.json -o output.vtt
 
 # From stdin
 cat result.json | stt2vtt -o output.vtt
@@ -36,20 +37,28 @@ cat result.json | stt2vtt -o output.vtt
 ```python
 from src.stt_to_vtt import stt_to_vtt
 
-# JSON string or parsed list of segments (fast-whisper format)
-vtt = stt_to_vtt('[{"id": 1, "start": 0, "end": 1, "text": "...", "words": [...]}]')
+# List of segments, or JSON string of that list (fast-whisper format)
+vtt = stt_to_vtt('[{"start": 0, "end": 1.5, "text": " Hello world.", "words": [{"start": 0, "end": 0.5, "word": " Hello"}, {"start": 0.5, "end": 1.5, "word": " world."}]}]')
 
 print(vtt)  # "WEBVTT\n\n00:00:00.000 --> ..."
 ```
 
 ## Input format (fast-whisper)
 
-A JSON array of segments. Each segment has `start`, `end`, `text` (in seconds), and `words`: list of `{start, end, word}`. Optional: `id`, `probability` on words.
+Input must be a **list** of segments or a **JSON string** of that list (no wrapper object).
+
+Minimal schema:
+
+- **Segment**: `start`, `end` (seconds), `text`, `words` (list, default `[]`).
+- **Word** (each item in `words`): `start`, `end`, `word`.
+
+Extra fields in the JSON are ignored. See [tests/test_data/jp2-input.json](tests/test_data/jp2-input.json) for the formal format.
+
+Example:
 
 ```json
 [
   {
-    "id": 1,
     "start": 0.0,
     "end": 1.5,
     "text": " Hello world.",
@@ -61,7 +70,7 @@ A JSON array of segments. Each segment has `start`, `end`, `text` (in seconds), 
 ]
 ```
 
-A dict with a `segments` key is also accepted: `stt_to_vtt({"segments": [...]})`.
+Segments without `words` are allowed; one VTT cue is emitted per segment using segment `start`, `end`, and `text`.
 
 ## Output
 
