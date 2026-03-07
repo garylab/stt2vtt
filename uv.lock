@@ -507,7 +507,7 @@ wheels = [
 ]
 
 [[package]]
-name = "stt-to-vtt"
+name = "stt2vtt"
 source = { editable = "." }
 
 [package.optional-dependencies]

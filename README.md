@@ -1,4 +1,4 @@
-# stt-to-vtt
+# stt2vtt
 
 Convert STT (speech-to-text) results with timestamps to WebVTT. Input can be JSON from **Azure Speech-to-Text** or **fast-whisper** (or compatible segment + word timestamps). Output is VTT text.
 
@@ -7,13 +7,13 @@ No audio processing or ML models — this repo only converts existing STT JSON t
 ## Installation
 
 ```bash
-pip install stt-to-vtt
+pip install stt2vtt
 ```
 
 Dev dependencies:
 
 ```bash
-pip install stt-to-vtt[dev]
+pip install stt2vtt[dev]
 ```
 
 ## Usage
@@ -22,13 +22,13 @@ pip install stt-to-vtt[dev]
 
 ```bash
 # From file
-stt-to-vtt result.json -o output.vtt
+stt2vtt result.json -o output.vtt
 
 # To stdout
-stt-to-vtt result.json
+stt2vtt result.json
 
 # From stdin
-cat result.json | stt-to-vtt -o output.vtt
+cat result.json | stt2vtt -o output.vtt
 ```
 
 ### Python

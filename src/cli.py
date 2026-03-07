@@ -16,9 +16,9 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  stt-to-vtt result.json -o output.vtt
-  stt-to-vtt result.json
-  cat result.json | stt-to-vtt -o output.vtt
+  stt2vtt result.json -o output.vtt
+  stt2vtt result.json
+  cat result.json | stt2vtt -o output.vtt
         """,
     )
     parser.add_argument(

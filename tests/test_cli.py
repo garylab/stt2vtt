@@ -4,7 +4,7 @@ from unittest.mock import patch
 from src.cli import main
 
 
-@patch('sys.argv', ['stt-to-vtt', '--help'])
+@patch('sys.argv', ['stt2vtt', '--help'])
 def test_help():
     with pytest.raises(SystemExit) as exc_info:
         main()
