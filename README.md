@@ -45,12 +45,57 @@ print(vtt)  # "WEBVTT\n\n00:00:00.000 --> ..."
 
 ## Input formats
 
-- **fast-whisper**: List of segments, each with `start`, `end`, `text`, and `words` (list of `{start, end, word}`).
-- **Azure**: Object with `phrases` (or `recognizedPhrases`), each phrase with `offsetMilliseconds`, `durationMilliseconds`, and `words` with `text`, `offsetMilliseconds`, `durationMilliseconds`.
+### fast-whisper
+
+A JSON array of segments. Each segment has `start`, `end`, `text` (seconds), and `words`: list of `{start, end, word}`. Optional: `id`, `probability` on words.
+
+```json
+[
+  {
+    "id": 1,
+    "start": 0.0,
+    "end": 1.5,
+    "text": " Hello world.",
+    "words": [
+      { "start": 0.0, "end": 0.5, "word": " Hello" },
+      { "start": 0.5, "end": 1.5, "word": " world." }
+    ]
+  }
+]
+```
+
+### Azure Speech-to-Text
+
+A JSON object with `phrases` (or `recognizedPhrases`). Each phrase has `text`, `offsetMilliseconds`, `durationMilliseconds`, and `words` with `text`, `offsetMilliseconds`, `durationMilliseconds`.
+
+```json
+{
+  "phrases": [
+    {
+      "text": "Hello world.",
+      "offsetMilliseconds": 0,
+      "durationMilliseconds": 1500,
+      "words": [
+        { "text": "Hello", "offsetMilliseconds": 0, "durationMilliseconds": 500 },
+        { "text": " world.", "offsetMilliseconds": 500, "durationMilliseconds": 1000 }
+      ]
+    }
+  ]
+}
+```
 
 ## Output
 
-WebVTT subtitle content: `WEBVTT` header plus timestamped cues with capitalized text.
+WebVTT subtitle content: a `WEBVTT` header plus timestamped cues. Sentence boundaries are split on punctuation; the first letter of each cue is capitalized.
+
+Example (from the fast-whisper or Azure input examples above):
+
+```
+WEBVTT
+
+00:00:00.000 --> 00:00:01.500
+Hello world
+```
 
 ## License
 
