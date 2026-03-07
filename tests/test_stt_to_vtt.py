@@ -82,27 +82,6 @@ def test_fast_whisper_json_string():
     assert "Hi" in vtt
 
 
-def test_azure_style():
-    """Azure Speech-to-Text style input (milliseconds)."""
-    data = {
-        "phrases": [
-            {
-                "text": "Hello world.",
-                "offsetMilliseconds": 0,
-                "durationMilliseconds": 1500,
-                "words": [
-                    {"text": "Hello", "offsetMilliseconds": 0, "durationMilliseconds": 500},
-                    {"text": " world.", "offsetMilliseconds": 500, "durationMilliseconds": 1000},
-                ],
-            }
-        ]
-    }
-    vtt = stt_to_vtt(data)
-    assert "WEBVTT" in vtt
-    assert "00:00:00.000 --> 00:00:01.500" in vtt
-    assert "Hello world" in vtt
-
-
 def test_unsupported_format_raises():
-    with pytest.raises(ValueError, match="Unsupported STT result format"):
+    with pytest.raises(ValueError, match="Expected a non-empty list of segments"):
         stt_to_vtt({"foo": "bar"})

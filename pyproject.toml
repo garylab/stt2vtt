@@ -1,14 +1,14 @@
 [project]
 name = "stt2vtt"
 dynamic = ["version"]
-description = "Convert STT result (Azure or fast-whisper JSON) to WebVTT"
+description = "Convert fast-whisper STT result JSON to WebVTT"
 readme = "README.md"
 requires-python = ">=3.9"
 license = {file = "LICENSE"}
 authors = [
     {name = "Gary Lab"},
 ]
-keywords = ["stt", "vtt", "webvtt", "subtitles", "speech-to-text", "azure", "whisper"]
+keywords = ["stt", "vtt", "webvtt", "subtitles", "speech-to-text", "whisper", "fast-whisper"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",

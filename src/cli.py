@@ -12,7 +12,7 @@ __version__ = "0.1.0"
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Convert STT result (Azure or fast-whisper JSON) to WebVTT",
+        description="Convert fast-whisper STT result JSON to WebVTT",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:

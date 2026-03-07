@@ -1,7 +1,4 @@
-"""Convert STT (speech-to-text) results with timestamps to WebVTT.
-
-Supports input from Azure Speech-to-Text or fast-whisper style JSON.
-"""
+"""Convert fast-whisper STT results with timestamps to WebVTT."""
 
 import json
 from types import SimpleNamespace
@@ -64,58 +61,17 @@ def _normalize_fast_whisper(segments: List[Any]) -> List[SimpleNamespace]:
     return out
 
 
-def _normalize_azure(data: Any) -> List[SimpleNamespace]:
-    """Normalize Azure Speech-to-Text result to internal format."""
-    phrases = data.get("phrases") or data.get("recognizedPhrases") or []
-    if not phrases and isinstance(data, list):
-        phrases = data
-    out = []
-    for p in phrases:
-        words = []
-        for w in p.get("words", []):
-            offset_ms = w.get("offsetMilliseconds", w.get("offset", 0))
-            duration_ms = w.get("durationMilliseconds", w.get("duration", 0))
-            start = offset_ms / 1000.0
-            end = start + duration_ms / 1000.0
-            word = w.get("text", w.get("word", ""))
-            words.append(SimpleNamespace(start=start, end=end, word=word))
-        offset_ms = p.get("offsetMilliseconds", p.get("offset", 0))
-        duration_ms = p.get("durationMilliseconds", p.get("duration", 0))
-        start = offset_ms / 1000.0
-        end = start + duration_ms / 1000.0
-        if words and (duration_ms == 0 or end <= start):
-            start = words[0].start
-            end = words[-1].end
-        out.append(
-            SimpleNamespace(
-                start=start,
-                end=end,
-                text=p.get("text", p.get("display", "")),
-                words=words,
-            )
-        )
-    return out
-
-
-def _detect_and_normalize(data: Any) -> List[SimpleNamespace]:
-    """Detect input format and return normalized segments."""
+def _parse_and_normalize(data: Any) -> List[SimpleNamespace]:
+    """Parse input and return normalized segments (fast-whisper format only)."""
     if isinstance(data, str):
         data = json.loads(data)
-    if isinstance(data, list) and data and isinstance(data[0], dict):
-        seg = data[0]
-        if "words" in seg and seg["words"]:
-            w = seg["words"][0]
-            if "start" in w and "end" in w and "word" in w:
-                return _normalize_fast_whisper(data)
-        if "offsetMilliseconds" in seg or "offset" in seg:
-            return _normalize_azure(data)
-        return _normalize_fast_whisper(data)
-    if isinstance(data, dict):
-        if "phrases" in data or "recognizedPhrases" in data:
-            return _normalize_azure(data)
-        if "segments" in data:
-            return _detect_and_normalize(data["segments"])
-    raise ValueError("Unsupported STT result format: expected list of segments or Azure-style dict with 'phrases'.")
+    if isinstance(data, dict) and "segments" in data:
+        data = data["segments"]
+    if not isinstance(data, list) or not data:
+        raise ValueError("Expected a non-empty list of segments (fast-whisper format).")
+    if not isinstance(data[0], dict):
+        raise ValueError("Expected a list of segment objects with start, end, text, words.")
+    return _normalize_fast_whisper(data)
 
 
 def _segments_to_subtitle(segments: List[SimpleNamespace]) -> List[dict]:
@@ -178,16 +134,16 @@ def _format_vtt(subtitles: List[dict]) -> str:
 
 
 def stt_to_vtt(stt_result: Union[str, bytes, list, dict]) -> str:
-    """Convert STT result (Azure or fast-whisper style) to WebVTT text.
+    """Convert fast-whisper STT result to WebVTT text.
 
     Args:
-        stt_result: JSON string, parsed list of segments, or Azure-style dict.
+        stt_result: JSON string or parsed list of segments (fast-whisper format).
 
     Returns:
         WebVTT subtitle content as a string.
     """
     if isinstance(stt_result, bytes):
         stt_result = stt_result.decode("utf-8")
-    segments = _detect_and_normalize(stt_result)
+    segments = _parse_and_normalize(stt_result)
     subtitles = _segments_to_subtitle(segments)
     return _format_vtt(subtitles)

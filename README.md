@@ -1,6 +1,6 @@
 # stt2vtt
 
-Convert STT (speech-to-text) results with timestamps to WebVTT. Input can be JSON from **Azure Speech-to-Text** or **fast-whisper** (or compatible segment + word timestamps). Output is VTT text.
+Convert **fast-whisper** STT results with timestamps to WebVTT. Input is JSON from [faster-whisper](https://github.com/SYSTRAN/faster-whisper) (or compatible segment + word timestamps). Output is VTT text.
 
 No audio processing or ML models — this repo only converts existing STT JSON to VTT.
 
@@ -36,18 +36,15 @@ cat result.json | stt2vtt -o output.vtt
 ```python
 from src.stt_to_vtt import stt_to_vtt
 
-# JSON string or parsed list/dict
-vtt = stt_to_vtt('{"phrases": [...]}')   # Azure style
-vtt = stt_to_vtt([{"id": 1, "start": 0, "end": 1, "text": "...", "words": [...]}])  # fast-whisper style
+# JSON string or parsed list of segments (fast-whisper format)
+vtt = stt_to_vtt('[{"id": 1, "start": 0, "end": 1, "text": "...", "words": [...]}]')
 
 print(vtt)  # "WEBVTT\n\n00:00:00.000 --> ..."
 ```
 
-## Input formats
+## Input format (fast-whisper)
 
-### fast-whisper
-
-A JSON array of segments. Each segment has `start`, `end`, `text` (seconds), and `words`: list of `{start, end, word}`. Optional: `id`, `probability` on words.
+A JSON array of segments. Each segment has `start`, `end`, `text` (in seconds), and `words`: list of `{start, end, word}`. Optional: `id`, `probability` on words.
 
 ```json
 [
@@ -64,31 +61,13 @@ A JSON array of segments. Each segment has `start`, `end`, `text` (seconds), and
 ]
 ```
 
-### Azure Speech-to-Text
-
-A JSON object with `phrases` (or `recognizedPhrases`). Each phrase has `text`, `offsetMilliseconds`, `durationMilliseconds`, and `words` with `text`, `offsetMilliseconds`, `durationMilliseconds`.
-
-```json
-{
-  "phrases": [
-    {
-      "text": "Hello world.",
-      "offsetMilliseconds": 0,
-      "durationMilliseconds": 1500,
-      "words": [
-        { "text": "Hello", "offsetMilliseconds": 0, "durationMilliseconds": 500 },
-        { "text": " world.", "offsetMilliseconds": 500, "durationMilliseconds": 1000 }
-      ]
-    }
-  ]
-}
-```
+A dict with a `segments` key is also accepted: `stt_to_vtt({"segments": [...]})`.
 
 ## Output
 
 WebVTT subtitle content: a `WEBVTT` header plus timestamped cues. Sentence boundaries are split on punctuation; the first letter of each cue is capitalized.
 
-Example (from the fast-whisper or Azure input examples above):
+Example (from the input above):
 
 ```
 WEBVTT
