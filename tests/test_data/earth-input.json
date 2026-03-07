@@ -1,1 +1,1108 @@
-[{"id": 1, "start": 0.0, "end": 6.52, "text": " Earth is not 70% water. It never has been. Only 70% of Earth's surface is covered by water.", "words": [{"start": 0.0, "end": 0.2, "word": " Earth", "probability": 0.936529815196991}, {"start": 0.2, "end": 0.4, "word": " is", "probability": 0.9974779486656189}, {"start": 0.4, "end": 0.56, "word": " not", "probability": 0.9977381229400635}, {"start": 0.56, "end": 0.98, "word": " 70", "probability": 0.9567662477493286}, {"start": 0.98, "end": 1.26, "word": "%", "probability": 0.8627846240997314}, {"start": 1.26, "end": 1.64, "word": " water.", "probability": 0.9926605224609375}, {"start": 2.26, "end": 2.36, "word": " It", "probability": 0.9940031170845032}, {"start": 2.36, "end": 2.56, "word": " never", "probability": 0.9947478175163269}, {"start": 2.56, "end": 2.78, "word": " has", "probability": 0.9980596899986267}, {"start": 2.78, "end": 2.96, "word": " been.", "probability": 0.9985960125923157}, {"start": 3.58, "end": 3.78, "word": " Only", "probability": 0.9943566918373108}, {"start": 3.78, "end": 4.22, "word": " 70", "probability": 0.994097113609314}, {"start": 4.22, "end": 4.62, "word": "%", "probability": 0.9739780426025391}, {"start": 4.62, "end": 4.72, "word": " of", "probability": 0.9973005652427673}, {"start": 4.72, "end": 5.1, "word": " Earth's", "probability": 0.7592658400535583}, {"start": 5.1, "end": 5.44, "word": " surface", "probability": 0.9978395700454712}, {"start": 5.44, "end": 5.7, "word": " is", "probability": 0.997965931892395}, {"start": 5.7, "end": 5.98, "word": " covered", "probability": 0.9974933862686157}, {"start": 5.98, "end": 6.18, "word": " by", "probability": 0.9979183077812195}, {"start": 6.18, "end": 6.52, "word": " water.", "probability": 0.9983943104743958}]}, {"id": 2, "start": 7.12, "end": 14.9, "text": " By mass, water makes up just 0.023% of the entire planet. Almost all of Earth is rock and metal.", "words": [{"start": 7.12, "end": 7.24, "word": " By", "probability": 0.9971906542778015}, {"start": 7.24, "end": 7.46, "word": " mass,", "probability": 0.9697743058204651}, {"start": 8.18, "end": 8.44, "word": " water", "probability": 0.9944958090782166}, {"start": 8.44, "end": 8.64, "word": " makes", "probability": 0.9936671853065491}, {"start": 8.64, "end": 8.84, "word": " up", "probability": 0.996148943901062}, {"start": 8.84, "end": 9.06, "word": " just", "probability": 0.9894961714744568}, {"start": 9.06, "end": 9.46, "word": " 0", "probability": 0.9801322817802429}, {"start": 9.46, "end": 10.82, "word": ".023", "probability": 0.9258453647295634}, {"start": 10.82, "end": 11.34, "word": "%", "probability": 0.9409757852554321}, {"start": 11.34, "end": 11.6, "word": " of", "probability": 0.9976227879524231}, {"start": 11.6, "end": 11.72, "word": " the", "probability": 0.9964034557342529}, {"start": 11.72, "end": 12.1, "word": " entire", "probability": 0.907915472984314}, {"start": 12.1, "end": 12.5, "word": " planet.", "probability": 0.9989138841629028}, {"start": 13.08, "end": 13.4, "word": " Almost", "probability": 0.9949051141738892}, {"start": 13.4, "end": 13.68, "word": " all", "probability": 0.9990522265434265}, {"start": 13.68, "end": 13.8, "word": " of", "probability": 0.9919708967208862}, {"start": 13.8, "end": 14.06, "word": " Earth", "probability": 0.933076024055481}, {"start": 14.06, "end": 14.24, "word": " is", "probability": 0.9946920275688171}, {"start": 14.24, "end": 14.44, "word": " rock", "probability": 0.9953047037124634}, {"start": 14.44, "end": 14.64, "word": " and", "probability": 0.9435224533081055}, {"start": 14.64, "end": 14.9, "word": " metal.", "probability": 0.9990777969360352}]}, {"id": 3, "start": 15.56, "end": 20.34, "text": " The oceans are just a thin layer on top. If you collected every drop of water on Earth,", "words": [{"start": 15.56, "end": 15.66, "word": " The", "probability": 0.9961334466934204}, {"start": 15.66, "end": 15.92, "word": " oceans", "probability": 0.9952524900436401}, {"start": 15.92, "end": 16.16, "word": " are", "probability": 0.9983419179916382}, {"start": 16.16, "end": 16.34, "word": " just", "probability": 0.9940122961997986}, {"start": 16.34, "end": 16.48, "word": " a", "probability": 0.9962137341499329}, {"start": 16.48, "end": 16.74, "word": " thin", "probability": 0.9978850483894348}, {"start": 16.74, "end": 17.02, "word": " layer", "probability": 0.9996329545974731}, {"start": 17.02, "end": 17.22, "word": " on", "probability": 0.9951106905937195}, {"start": 17.22, "end": 17.5, "word": " top.", "probability": 0.9958317875862122}, {"start": 18.32, "end": 18.46, "word": " If", "probability": 0.9982499480247498}, {"start": 18.46, "end": 18.56, "word": " you", "probability": 0.9983217120170593}, {"start": 18.56, "end": 18.84, "word": " collected", "probability": 0.990156888961792}, {"start": 18.84, "end": 19.18, "word": " every", "probability": 0.9951340556144714}, {"start": 19.18, "end": 19.38, "word": " drop", "probability": 0.9993040561676025}, {"start": 19.38, "end": 19.54, "word": " of", "probability": 0.9987891316413879}, {"start": 19.54, "end": 19.8, "word": " water", "probability": 0.9949970245361328}, {"start": 19.8, "end": 20.0, "word": " on", "probability": 0.9979251623153687}, {"start": 20.0, "end": 20.34, "word": " Earth,", "probability": 0.9295316934585571}]}, {"id": 4, "start": 20.78, "end": 26.5, "text": " all oceans, ice caps, ground water and clouds, it would barely register compared to the planet beneath it.", "words": [{"start": 20.78, "end": 20.88, "word": " all", "probability": 0.9943589568138123}, {"start": 20.88, "end": 21.28, "word": " oceans,", "probability": 0.9789697527885437}, {"start": 21.54, "end": 21.7, "word": " ice", "probability": 0.986169695854187}, {"start": 21.7, "end": 21.88, "word": " caps,", "probability": 0.8756423592567444}, {"start": 22.2, "end": 22.3, "word": " ground", "probability": 0.5862135291099548}, {"start": 22.3, "end": 22.66, "word": " water", "probability": 0.9346632957458496}, {"start": 22.66, "end": 22.86, "word": " and", "probability": 0.6749849915504456}, {"start": 22.86, "end": 23.14, "word": " clouds,", "probability": 0.99712735414505}, {"start": 23.76, "end": 23.86, "word": " it", "probability": 0.9913889765739441}, {"start": 23.86, "end": 24.0, "word": " would", "probability": 0.9899595975875854}, {"start": 24.0, "end": 24.38, "word": " barely", "probability": 0.9949660897254944}, {"start": 24.38, "end": 24.92, "word": " register", "probability": 0.996198832988739}, {"start": 24.92, "end": 25.32, "word": " compared", "probability": 0.9689006209373474}, {"start": 25.32, "end": 25.58, "word": " to", "probability": 0.9989678859710693}, {"start": 25.58, "end": 25.68, "word": " the", "probability": 0.9953183531761169}, {"start": 25.68, "end": 25.94, "word": " planet", "probability": 0.9942300319671631}, {"start": 25.94, "end": 26.26, "word": " beneath", "probability": 0.999189555644989}, {"start": 26.26, "end": 26.5, "word": " it.", "probability": 0.9989101886749268}]}, {"id": 5, "start": 26.5, "end": 29.34, "text": " Now imagine Earth is the size of an apple.", "words": [{"start": 26.5, "end": 27.5, "word": " Now", "probability": 0.7391993403434753}, {"start": 27.5, "end": 27.88, "word": " imagine", "probability": 0.8069331049919128}, {"start": 27.88, "end": 28.18, "word": " Earth", "probability": 0.6695213913917542}, {"start": 28.18, "end": 28.46, "word": " is", "probability": 0.9887114763259888}, {"start": 28.46, "end": 28.6, "word": " the", "probability": 0.9970036149024963}, {"start": 28.6, "end": 28.82, "word": " size", "probability": 0.9971745014190674}, {"start": 28.82, "end": 29.02, "word": " of", "probability": 0.9987239241600037}, {"start": 29.02, "end": 29.1, "word": " an", "probability": 0.9844295978546143}, {"start": 29.1, "end": 29.34, "word": " apple.", "probability": 0.9451210498809814}]}, {"id": 6, "start": 30.26, "end": 35.26, "text": " The solid planet, crust, mantle, core, is the apple itself.", "words": [{"start": 30.26, "end": 30.32, "word": " The", "probability": 0.9582610726356506}, {"start": 30.32, "end": 30.6, "word": " solid", "probability": 0.9864590167999268}, {"start": 30.6, "end": 31.06, "word": " planet,", "probability": 0.9682711958885193}, {"start": 31.48, "end": 31.8, "word": " crust,", "probability": 0.9735930562019348}, {"start": 32.46, "end": 32.78, "word": " mantle,", "probability": 0.9844093918800354}, {"start": 33.36, "end": 33.52, "word": " core,", "probability": 0.9554761052131653}, {"start": 33.98, "end": 34.46, "word": " is", "probability": 0.996740996837616}, {"start": 34.46, "end": 34.6, "word": " the", "probability": 0.997804582118988}, {"start": 34.6, "end": 34.84, "word": " apple", "probability": 0.953376054763794}, {"start": 34.84, "end": 35.26, "word": " itself.", "probability": 0.9916692972183228}]}, {"id": 7, "start": 36.3, "end": 41.64, "text": " All the water on Earth, everything life depends on, would be thinner than the skin of the", "words": [{"start": 36.3, "end": 36.5, "word": " All", "probability": 0.94611656665802}, {"start": 36.5, "end": 36.66, "word": " the", "probability": 0.9887804985046387}, {"start": 36.66, "end": 36.98, "word": " water", "probability": 0.9985400438308716}, {"start": 36.98, "end": 37.2, "word": " on", "probability": 0.9975958466529846}, {"start": 37.2, "end": 37.62, "word": " Earth,", "probability": 0.9589325785636902}, {"start": 38.14, "end": 38.64, "word": " everything", "probability": 0.9907627701759338}, {"start": 38.64, "end": 38.92, "word": " life", "probability": 0.9797000288963318}, {"start": 38.92, "end": 39.28, "word": " depends", "probability": 0.9904967546463013}, {"start": 39.28, "end": 39.62, "word": " on,", "probability": 0.9984561204910278}, {"start": 40.04, "end": 40.32, "word": " would", "probability": 0.9897333979606628}, {"start": 40.32, "end": 40.46, "word": " be", "probability": 0.9960044026374817}, {"start": 40.46, "end": 40.78, "word": " thinner", "probability": 0.9979540109634399}, {"start": 40.78, "end": 41.0, "word": " than", "probability": 0.9941945672035217}, {"start": 41.0, "end": 41.14, "word": " the", "probability": 0.9869404435157776}, {"start": 41.14, "end": 41.36, "word": " skin", "probability": 0.9992408752441406}, {"start": 41.36, "end": 41.5, "word": " of", "probability": 0.9958189129829407}, {"start": 41.5, "end": 41.64, "word": " the", "probability": 0.9943497776985168}]}, {"id": 8, "start": 41.64, "end": 41.92, "text": " apple.", "words": [{"start": 41.64, "end": 41.92, "word": " apple.", "probability": 0.9839296340942383}]}, {"id": 9, "start": 42.86, "end": 45.74, "text": " A fragile coating, a microscopic film.", "words": [{"start": 42.86, "end": 42.94, "word": " A", "probability": 0.9795690178871155}, {"start": 42.94, "end": 43.3, "word": " fragile", "probability": 0.998052716255188}, {"start": 43.3, "end": 43.78, "word": " coating,", "probability": 0.994695246219635}, {"start": 44.5, "end": 44.68, "word": " a", "probability": 0.9904192090034485}, {"start": 44.68, "end": 45.14, "word": " microscopic", "probability": 0.9987121820449829}, {"start": 45.14, "end": 45.74, "word": " film.", "probability": 0.998606264591217}]}, {"id": 10, "start": 46.5, "end": 52.54, "text": " From space, that skin makes Earth look blue and flooded, but in reality, life survives", "words": [{"start": 46.5, "end": 46.7, "word": " From", "probability": 0.9958065748214722}, {"start": 46.7, "end": 47.1, "word": " space,", "probability": 0.9920593500137329}, {"start": 47.52, "end": 47.8, "word": " that", "probability": 0.997577965259552}, {"start": 47.8, "end": 48.14, "word": " skin", "probability": 0.9989902377128601}, {"start": 48.14, "end": 48.38, "word": " makes", "probability": 0.9909402132034302}, {"start": 48.38, "end": 48.68, "word": " Earth", "probability": 0.9228992462158203}, {"start": 48.68, "end": 48.9, "word": " look", "probability": 0.9962215423583984}, {"start": 48.9, "end": 49.24, "word": " blue", "probability": 0.992616593837738}, {"start": 49.24, "end": 49.42, "word": " and", "probability": 0.9970410466194153}, {"start": 49.42, "end": 49.76, "word": " flooded,", "probability": 0.9826746582984924}, {"start": 50.36, "end": 50.6, "word": " but", "probability": 0.9886531233787537}, {"start": 50.6, "end": 50.72, "word": " in", "probability": 0.9897981882095337}, {"start": 50.72, "end": 51.22, "word": " reality,", "probability": 0.9994221925735474}, {"start": 51.84, "end": 51.96, "word": " life", "probability": 0.992134690284729}, {"start": 51.96, "end": 52.54, "word": " survives", "probability": 0.9961068034172058}]}, {"id": 11, "start": 52.54, "end": 55.08, "text": " on a surface layer so thin it's almost an illusion.", "words": [{"start": 52.54, "end": 52.68, "word": " on", "probability": 0.9943538904190063}, {"start": 52.68, "end": 52.78, "word": " a", "probability": 0.9981499910354614}, {"start": 52.78, "end": 53.14, "word": " surface", "probability": 0.9984472393989563}, {"start": 53.14, "end": 53.46, "word": " layer", "probability": 0.9607443809509277}, {"start": 53.46, "end": 53.74, "word": " so", "probability": 0.9872494339942932}, {"start": 53.74, "end": 54.04, "word": " thin", "probability": 0.99907386302948}, {"start": 54.04, "end": 54.3, "word": " it's", "probability": 0.9410035014152527}, {"start": 54.3, "end": 54.52, "word": " almost", "probability": 0.9973278045654297}, {"start": 54.52, "end": 54.74, "word": " an", "probability": 0.992918074131012}, {"start": 54.74, "end": 55.08, "word": " illusion.", "probability": 0.9549712538719177}]}, {"id": 12, "start": 55.08, "end": 61.2, "text": " Earth isn't a water planet, it's a massive rock wrapped in a barely there layer that", "words": [{"start": 55.08, "end": 56.26, "word": " Earth", "probability": 0.6018602848052979}, {"start": 56.26, "end": 56.7, "word": " isn't", "probability": 0.9624146819114685}, {"start": 56.7, "end": 56.8, "word": " a", "probability": 0.9944550395011902}, {"start": 56.8, "end": 57.04, "word": " water", "probability": 0.9964993000030518}, {"start": 57.04, "end": 57.42, "word": " planet,", "probability": 0.9600117802619934}, {"start": 57.96, "end": 58.14, "word": " it's", "probability": 0.9417383968830109}, {"start": 58.14, "end": 58.22, "word": " a", "probability": 0.9911028146743774}, {"start": 58.22, "end": 58.64, "word": " massive", "probability": 0.998166561126709}, {"start": 58.64, "end": 58.94, "word": " rock", "probability": 0.9969545602798462}, {"start": 58.94, "end": 59.38, "word": " wrapped", "probability": 0.9827396869659424}, {"start": 59.38, "end": 59.58, "word": " in", "probability": 0.9972521662712097}, {"start": 59.58, "end": 59.78, "word": " a", "probability": 0.9881966710090637}, {"start": 59.78, "end": 60.04, "word": " barely", "probability": 0.8989127278327942}, {"start": 60.04, "end": 60.36, "word": " there", "probability": 0.7275227904319763}, {"start": 60.36, "end": 60.68, "word": " layer", "probability": 0.9838950037956238}, {"start": 60.68, "end": 61.2, "word": " that", "probability": 0.9306934475898743}]}, {"id": 13, "start": 61.2, "end": 62.76, "text": " just happens to keep us alive.", "words": [{"start": 61.2, "end": 61.4, "word": " just", "probability": 0.9933828115463257}, {"start": 61.4, "end": 61.76, "word": " happens", "probability": 0.9906534552574158}, {"start": 61.76, "end": 62.0, "word": " to", "probability": 0.9966939687728882}, {"start": 62.0, "end": 62.16, "word": " keep", "probability": 0.9962820410728455}, {"start": 62.16, "end": 62.4, "word": " us", "probability": 0.9984079003334045}, {"start": 62.4, "end": 62.76, "word": " alive.", "probability": 0.9993658661842346}]}]
+[
+    {
+        "id": 1,
+        "start": 0.0,
+        "end": 6.52,
+        "text": " Earth is not 70% water. It never has been. Only 70% of Earth's surface is covered by water.",
+        "words": [
+            {
+                "start": 0.0,
+                "end": 0.2,
+                "word": " Earth",
+                "probability": 0.936529815196991
+            },
+            {
+                "start": 0.2,
+                "end": 0.4,
+                "word": " is",
+                "probability": 0.9974779486656189
+            },
+            {
+                "start": 0.4,
+                "end": 0.56,
+                "word": " not",
+                "probability": 0.9977381229400635
+            },
+            {
+                "start": 0.56,
+                "end": 0.98,
+                "word": " 70",
+                "probability": 0.9567662477493286
+            },
+            {
+                "start": 0.98,
+                "end": 1.26,
+                "word": "%",
+                "probability": 0.8627846240997314
+            },
+            {
+                "start": 1.26,
+                "end": 1.64,
+                "word": " water.",
+                "probability": 0.9926605224609375
+            },
+            {
+                "start": 2.26,
+                "end": 2.36,
+                "word": " It",
+                "probability": 0.9940031170845032
+            },
+            {
+                "start": 2.36,
+                "end": 2.56,
+                "word": " never",
+                "probability": 0.9947478175163269
+            },
+            {
+                "start": 2.56,
+                "end": 2.78,
+                "word": " has",
+                "probability": 0.9980596899986267
+            },
+            {
+                "start": 2.78,
+                "end": 2.96,
+                "word": " been.",
+                "probability": 0.9985960125923157
+            },
+            {
+                "start": 3.58,
+                "end": 3.78,
+                "word": " Only",
+                "probability": 0.9943566918373108
+            },
+            {
+                "start": 3.78,
+                "end": 4.22,
+                "word": " 70",
+                "probability": 0.994097113609314
+            },
+            {
+                "start": 4.22,
+                "end": 4.62,
+                "word": "%",
+                "probability": 0.9739780426025391
+            },
+            {
+                "start": 4.62,
+                "end": 4.72,
+                "word": " of",
+                "probability": 0.9973005652427673
+            },
+            {
+                "start": 4.72,
+                "end": 5.1,
+                "word": " Earth's",
+                "probability": 0.7592658400535583
+            },
+            {
+                "start": 5.1,
+                "end": 5.44,
+                "word": " surface",
+                "probability": 0.9978395700454712
+            },
+            {
+                "start": 5.44,
+                "end": 5.7,
+                "word": " is",
+                "probability": 0.997965931892395
+            },
+            {
+                "start": 5.7,
+                "end": 5.98,
+                "word": " covered",
+                "probability": 0.9974933862686157
+            },
+            {
+                "start": 5.98,
+                "end": 6.18,
+                "word": " by",
+                "probability": 0.9979183077812195
+            },
+            {
+                "start": 6.18,
+                "end": 6.52,
+                "word": " water.",
+                "probability": 0.9983943104743958
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "start": 7.12,
+        "end": 14.9,
+        "text": " By mass, water makes up just 0.023% of the entire planet. Almost all of Earth is rock and metal.",
+        "words": [
+            {
+                "start": 7.12,
+                "end": 7.24,
+                "word": " By",
+                "probability": 0.9971906542778015
+            },
+            {
+                "start": 7.24,
+                "end": 7.46,
+                "word": " mass,",
+                "probability": 0.9697743058204651
+            },
+            {
+                "start": 8.18,
+                "end": 8.44,
+                "word": " water",
+                "probability": 0.9944958090782166
+            },
+            {
+                "start": 8.44,
+                "end": 8.64,
+                "word": " makes",
+                "probability": 0.9936671853065491
+            },
+            {
+                "start": 8.64,
+                "end": 8.84,
+                "word": " up",
+                "probability": 0.996148943901062
+            },
+            {
+                "start": 8.84,
+                "end": 9.06,
+                "word": " just",
+                "probability": 0.9894961714744568
+            },
+            {
+                "start": 9.06,
+                "end": 9.46,
+                "word": " 0",
+                "probability": 0.9801322817802429
+            },
+            {
+                "start": 9.46,
+                "end": 10.82,
+                "word": ".023",
+                "probability": 0.9258453647295634
+            },
+            {
+                "start": 10.82,
+                "end": 11.34,
+                "word": "%",
+                "probability": 0.9409757852554321
+            },
+            {
+                "start": 11.34,
+                "end": 11.6,
+                "word": " of",
+                "probability": 0.9976227879524231
+            },
+            {
+                "start": 11.6,
+                "end": 11.72,
+                "word": " the",
+                "probability": 0.9964034557342529
+            },
+            {
+                "start": 11.72,
+                "end": 12.1,
+                "word": " entire",
+                "probability": 0.907915472984314
+            },
+            {
+                "start": 12.1,
+                "end": 12.5,
+                "word": " planet.",
+                "probability": 0.9989138841629028
+            },
+            {
+                "start": 13.08,
+                "end": 13.4,
+                "word": " Almost",
+                "probability": 0.9949051141738892
+            },
+            {
+                "start": 13.4,
+                "end": 13.68,
+                "word": " all",
+                "probability": 0.9990522265434265
+            },
+            {
+                "start": 13.68,
+                "end": 13.8,
+                "word": " of",
+                "probability": 0.9919708967208862
+            },
+            {
+                "start": 13.8,
+                "end": 14.06,
+                "word": " Earth",
+                "probability": 0.933076024055481
+            },
+            {
+                "start": 14.06,
+                "end": 14.24,
+                "word": " is",
+                "probability": 0.9946920275688171
+            },
+            {
+                "start": 14.24,
+                "end": 14.44,
+                "word": " rock",
+                "probability": 0.9953047037124634
+            },
+            {
+                "start": 14.44,
+                "end": 14.64,
+                "word": " and",
+                "probability": 0.9435224533081055
+            },
+            {
+                "start": 14.64,
+                "end": 14.9,
+                "word": " metal.",
+                "probability": 0.9990777969360352
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "start": 15.56,
+        "end": 20.34,
+        "text": " The oceans are just a thin layer on top. If you collected every drop of water on Earth,",
+        "words": [
+            {
+                "start": 15.56,
+                "end": 15.66,
+                "word": " The",
+                "probability": 0.9961334466934204
+            },
+            {
+                "start": 15.66,
+                "end": 15.92,
+                "word": " oceans",
+                "probability": 0.9952524900436401
+            },
+            {
+                "start": 15.92,
+                "end": 16.16,
+                "word": " are",
+                "probability": 0.9983419179916382
+            },
+            {
+                "start": 16.16,
+                "end": 16.34,
+                "word": " just",
+                "probability": 0.9940122961997986
+            },
+            {
+                "start": 16.34,
+                "end": 16.48,
+                "word": " a",
+                "probability": 0.9962137341499329
+            },
+            {
+                "start": 16.48,
+                "end": 16.74,
+                "word": " thin",
+                "probability": 0.9978850483894348
+            },
+            {
+                "start": 16.74,
+                "end": 17.02,
+                "word": " layer",
+                "probability": 0.9996329545974731
+            },
+            {
+                "start": 17.02,
+                "end": 17.22,
+                "word": " on",
+                "probability": 0.9951106905937195
+            },
+            {
+                "start": 17.22,
+                "end": 17.5,
+                "word": " top.",
+                "probability": 0.9958317875862122
+            },
+            {
+                "start": 18.32,
+                "end": 18.46,
+                "word": " If",
+                "probability": 0.9982499480247498
+            },
+            {
+                "start": 18.46,
+                "end": 18.56,
+                "word": " you",
+                "probability": 0.9983217120170593
+            },
+            {
+                "start": 18.56,
+                "end": 18.84,
+                "word": " collected",
+                "probability": 0.990156888961792
+            },
+            {
+                "start": 18.84,
+                "end": 19.18,
+                "word": " every",
+                "probability": 0.9951340556144714
+            },
+            {
+                "start": 19.18,
+                "end": 19.38,
+                "word": " drop",
+                "probability": 0.9993040561676025
+            },
+            {
+                "start": 19.38,
+                "end": 19.54,
+                "word": " of",
+                "probability": 0.9987891316413879
+            },
+            {
+                "start": 19.54,
+                "end": 19.8,
+                "word": " water",
+                "probability": 0.9949970245361328
+            },
+            {
+                "start": 19.8,
+                "end": 20.0,
+                "word": " on",
+                "probability": 0.9979251623153687
+            },
+            {
+                "start": 20.0,
+                "end": 20.34,
+                "word": " Earth,",
+                "probability": 0.9295316934585571
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "start": 20.78,
+        "end": 26.5,
+        "text": " all oceans, ice caps, ground water and clouds, it would barely register compared to the planet beneath it.",
+        "words": [
+            {
+                "start": 20.78,
+                "end": 20.88,
+                "word": " all",
+                "probability": 0.9943589568138123
+            },
+            {
+                "start": 20.88,
+                "end": 21.28,
+                "word": " oceans,",
+                "probability": 0.9789697527885437
+            },
+            {
+                "start": 21.54,
+                "end": 21.7,
+                "word": " ice",
+                "probability": 0.986169695854187
+            },
+            {
+                "start": 21.7,
+                "end": 21.88,
+                "word": " caps,",
+                "probability": 0.8756423592567444
+            },
+            {
+                "start": 22.2,
+                "end": 22.3,
+                "word": " ground",
+                "probability": 0.5862135291099548
+            },
+            {
+                "start": 22.3,
+                "end": 22.66,
+                "word": " water",
+                "probability": 0.9346632957458496
+            },
+            {
+                "start": 22.66,
+                "end": 22.86,
+                "word": " and",
+                "probability": 0.6749849915504456
+            },
+            {
+                "start": 22.86,
+                "end": 23.14,
+                "word": " clouds,",
+                "probability": 0.99712735414505
+            },
+            {
+                "start": 23.76,
+                "end": 23.86,
+                "word": " it",
+                "probability": 0.9913889765739441
+            },
+            {
+                "start": 23.86,
+                "end": 24.0,
+                "word": " would",
+                "probability": 0.9899595975875854
+            },
+            {
+                "start": 24.0,
+                "end": 24.38,
+                "word": " barely",
+                "probability": 0.9949660897254944
+            },
+            {
+                "start": 24.38,
+                "end": 24.92,
+                "word": " register",
+                "probability": 0.996198832988739
+            },
+            {
+                "start": 24.92,
+                "end": 25.32,
+                "word": " compared",
+                "probability": 0.9689006209373474
+            },
+            {
+                "start": 25.32,
+                "end": 25.58,
+                "word": " to",
+                "probability": 0.9989678859710693
+            },
+            {
+                "start": 25.58,
+                "end": 25.68,
+                "word": " the",
+                "probability": 0.9953183531761169
+            },
+            {
+                "start": 25.68,
+                "end": 25.94,
+                "word": " planet",
+                "probability": 0.9942300319671631
+            },
+            {
+                "start": 25.94,
+                "end": 26.26,
+                "word": " beneath",
+                "probability": 0.999189555644989
+            },
+            {
+                "start": 26.26,
+                "end": 26.5,
+                "word": " it.",
+                "probability": 0.9989101886749268
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "start": 26.5,
+        "end": 29.34,
+        "text": " Now imagine Earth is the size of an apple.",
+        "words": [
+            {
+                "start": 26.5,
+                "end": 27.5,
+                "word": " Now",
+                "probability": 0.7391993403434753
+            },
+            {
+                "start": 27.5,
+                "end": 27.88,
+                "word": " imagine",
+                "probability": 0.8069331049919128
+            },
+            {
+                "start": 27.88,
+                "end": 28.18,
+                "word": " Earth",
+                "probability": 0.6695213913917542
+            },
+            {
+                "start": 28.18,
+                "end": 28.46,
+                "word": " is",
+                "probability": 0.9887114763259888
+            },
+            {
+                "start": 28.46,
+                "end": 28.6,
+                "word": " the",
+                "probability": 0.9970036149024963
+            },
+            {
+                "start": 28.6,
+                "end": 28.82,
+                "word": " size",
+                "probability": 0.9971745014190674
+            },
+            {
+                "start": 28.82,
+                "end": 29.02,
+                "word": " of",
+                "probability": 0.9987239241600037
+            },
+            {
+                "start": 29.02,
+                "end": 29.1,
+                "word": " an",
+                "probability": 0.9844295978546143
+            },
+            {
+                "start": 29.1,
+                "end": 29.34,
+                "word": " apple.",
+                "probability": 0.9451210498809814
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "start": 30.26,
+        "end": 35.26,
+        "text": " The solid planet, crust, mantle, core, is the apple itself.",
+        "words": [
+            {
+                "start": 30.26,
+                "end": 30.32,
+                "word": " The",
+                "probability": 0.9582610726356506
+            },
+            {
+                "start": 30.32,
+                "end": 30.6,
+                "word": " solid",
+                "probability": 0.9864590167999268
+            },
+            {
+                "start": 30.6,
+                "end": 31.06,
+                "word": " planet,",
+                "probability": 0.9682711958885193
+            },
+            {
+                "start": 31.48,
+                "end": 31.8,
+                "word": " crust,",
+                "probability": 0.9735930562019348
+            },
+            {
+                "start": 32.46,
+                "end": 32.78,
+                "word": " mantle,",
+                "probability": 0.9844093918800354
+            },
+            {
+                "start": 33.36,
+                "end": 33.52,
+                "word": " core,",
+                "probability": 0.9554761052131653
+            },
+            {
+                "start": 33.98,
+                "end": 34.46,
+                "word": " is",
+                "probability": 0.996740996837616
+            },
+            {
+                "start": 34.46,
+                "end": 34.6,
+                "word": " the",
+                "probability": 0.997804582118988
+            },
+            {
+                "start": 34.6,
+                "end": 34.84,
+                "word": " apple",
+                "probability": 0.953376054763794
+            },
+            {
+                "start": 34.84,
+                "end": 35.26,
+                "word": " itself.",
+                "probability": 0.9916692972183228
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "start": 36.3,
+        "end": 41.64,
+        "text": " All the water on Earth, everything life depends on, would be thinner than the skin of the",
+        "words": [
+            {
+                "start": 36.3,
+                "end": 36.5,
+                "word": " All",
+                "probability": 0.94611656665802
+            },
+            {
+                "start": 36.5,
+                "end": 36.66,
+                "word": " the",
+                "probability": 0.9887804985046387
+            },
+            {
+                "start": 36.66,
+                "end": 36.98,
+                "word": " water",
+                "probability": 0.9985400438308716
+            },
+            {
+                "start": 36.98,
+                "end": 37.2,
+                "word": " on",
+                "probability": 0.9975958466529846
+            },
+            {
+                "start": 37.2,
+                "end": 37.62,
+                "word": " Earth,",
+                "probability": 0.9589325785636902
+            },
+            {
+                "start": 38.14,
+                "end": 38.64,
+                "word": " everything",
+                "probability": 0.9907627701759338
+            },
+            {
+                "start": 38.64,
+                "end": 38.92,
+                "word": " life",
+                "probability": 0.9797000288963318
+            },
+            {
+                "start": 38.92,
+                "end": 39.28,
+                "word": " depends",
+                "probability": 0.9904967546463013
+            },
+            {
+                "start": 39.28,
+                "end": 39.62,
+                "word": " on,",
+                "probability": 0.9984561204910278
+            },
+            {
+                "start": 40.04,
+                "end": 40.32,
+                "word": " would",
+                "probability": 0.9897333979606628
+            },
+            {
+                "start": 40.32,
+                "end": 40.46,
+                "word": " be",
+                "probability": 0.9960044026374817
+            },
+            {
+                "start": 40.46,
+                "end": 40.78,
+                "word": " thinner",
+                "probability": 0.9979540109634399
+            },
+            {
+                "start": 40.78,
+                "end": 41.0,
+                "word": " than",
+                "probability": 0.9941945672035217
+            },
+            {
+                "start": 41.0,
+                "end": 41.14,
+                "word": " the",
+                "probability": 0.9869404435157776
+            },
+            {
+                "start": 41.14,
+                "end": 41.36,
+                "word": " skin",
+                "probability": 0.9992408752441406
+            },
+            {
+                "start": 41.36,
+                "end": 41.5,
+                "word": " of",
+                "probability": 0.9958189129829407
+            },
+            {
+                "start": 41.5,
+                "end": 41.64,
+                "word": " the",
+                "probability": 0.9943497776985168
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "start": 41.64,
+        "end": 41.92,
+        "text": " apple.",
+        "words": [
+            {
+                "start": 41.64,
+                "end": 41.92,
+                "word": " apple.",
+                "probability": 0.9839296340942383
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "start": 42.86,
+        "end": 45.74,
+        "text": " A fragile coating, a microscopic film.",
+        "words": [
+            {
+                "start": 42.86,
+                "end": 42.94,
+                "word": " A",
+                "probability": 0.9795690178871155
+            },
+            {
+                "start": 42.94,
+                "end": 43.3,
+                "word": " fragile",
+                "probability": 0.998052716255188
+            },
+            {
+                "start": 43.3,
+                "end": 43.78,
+                "word": " coating,",
+                "probability": 0.994695246219635
+            },
+            {
+                "start": 44.5,
+                "end": 44.68,
+                "word": " a",
+                "probability": 0.9904192090034485
+            },
+            {
+                "start": 44.68,
+                "end": 45.14,
+                "word": " microscopic",
+                "probability": 0.9987121820449829
+            },
+            {
+                "start": 45.14,
+                "end": 45.74,
+                "word": " film.",
+                "probability": 0.998606264591217
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "start": 46.5,
+        "end": 52.54,
+        "text": " From space, that skin makes Earth look blue and flooded, but in reality, life survives",
+        "words": [
+            {
+                "start": 46.5,
+                "end": 46.7,
+                "word": " From",
+                "probability": 0.9958065748214722
+            },
+            {
+                "start": 46.7,
+                "end": 47.1,
+                "word": " space,",
+                "probability": 0.9920593500137329
+            },
+            {
+                "start": 47.52,
+                "end": 47.8,
+                "word": " that",
+                "probability": 0.997577965259552
+            },
+            {
+                "start": 47.8,
+                "end": 48.14,
+                "word": " skin",
+                "probability": 0.9989902377128601
+            },
+            {
+                "start": 48.14,
+                "end": 48.38,
+                "word": " makes",
+                "probability": 0.9909402132034302
+            },
+            {
+                "start": 48.38,
+                "end": 48.68,
+                "word": " Earth",
+                "probability": 0.9228992462158203
+            },
+            {
+                "start": 48.68,
+                "end": 48.9,
+                "word": " look",
+                "probability": 0.9962215423583984
+            },
+            {
+                "start": 48.9,
+                "end": 49.24,
+                "word": " blue",
+                "probability": 0.992616593837738
+            },
+            {
+                "start": 49.24,
+                "end": 49.42,
+                "word": " and",
+                "probability": 0.9970410466194153
+            },
+            {
+                "start": 49.42,
+                "end": 49.76,
+                "word": " flooded,",
+                "probability": 0.9826746582984924
+            },
+            {
+                "start": 50.36,
+                "end": 50.6,
+                "word": " but",
+                "probability": 0.9886531233787537
+            },
+            {
+                "start": 50.6,
+                "end": 50.72,
+                "word": " in",
+                "probability": 0.9897981882095337
+            },
+            {
+                "start": 50.72,
+                "end": 51.22,
+                "word": " reality,",
+                "probability": 0.9994221925735474
+            },
+            {
+                "start": 51.84,
+                "end": 51.96,
+                "word": " life",
+                "probability": 0.992134690284729
+            },
+            {
+                "start": 51.96,
+                "end": 52.54,
+                "word": " survives",
+                "probability": 0.9961068034172058
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "start": 52.54,
+        "end": 55.08,
+        "text": " on a surface layer so thin it's almost an illusion.",
+        "words": [
+            {
+                "start": 52.54,
+                "end": 52.68,
+                "word": " on",
+                "probability": 0.9943538904190063
+            },
+            {
+                "start": 52.68,
+                "end": 52.78,
+                "word": " a",
+                "probability": 0.9981499910354614
+            },
+            {
+                "start": 52.78,
+                "end": 53.14,
+                "word": " surface",
+                "probability": 0.9984472393989563
+            },
+            {
+                "start": 53.14,
+                "end": 53.46,
+                "word": " layer",
+                "probability": 0.9607443809509277
+            },
+            {
+                "start": 53.46,
+                "end": 53.74,
+                "word": " so",
+                "probability": 0.9872494339942932
+            },
+            {
+                "start": 53.74,
+                "end": 54.04,
+                "word": " thin",
+                "probability": 0.99907386302948
+            },
+            {
+                "start": 54.04,
+                "end": 54.3,
+                "word": " it's",
+                "probability": 0.9410035014152527
+            },
+            {
+                "start": 54.3,
+                "end": 54.52,
+                "word": " almost",
+                "probability": 0.9973278045654297
+            },
+            {
+                "start": 54.52,
+                "end": 54.74,
+                "word": " an",
+                "probability": 0.992918074131012
+            },
+            {
+                "start": 54.74,
+                "end": 55.08,
+                "word": " illusion.",
+                "probability": 0.9549712538719177
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "start": 55.08,
+        "end": 61.2,
+        "text": " Earth isn't a water planet, it's a massive rock wrapped in a barely there layer that",
+        "words": [
+            {
+                "start": 55.08,
+                "end": 56.26,
+                "word": " Earth",
+                "probability": 0.6018602848052979
+            },
+            {
+                "start": 56.26,
+                "end": 56.7,
+                "word": " isn't",
+                "probability": 0.9624146819114685
+            },
+            {
+                "start": 56.7,
+                "end": 56.8,
+                "word": " a",
+                "probability": 0.9944550395011902
+            },
+            {
+                "start": 56.8,
+                "end": 57.04,
+                "word": " water",
+                "probability": 0.9964993000030518
+            },
+            {
+                "start": 57.04,
+                "end": 57.42,
+                "word": " planet,",
+                "probability": 0.9600117802619934
+            },
+            {
+                "start": 57.96,
+                "end": 58.14,
+                "word": " it's",
+                "probability": 0.9417383968830109
+            },
+            {
+                "start": 58.14,
+                "end": 58.22,
+                "word": " a",
+                "probability": 0.9911028146743774
+            },
+            {
+                "start": 58.22,
+                "end": 58.64,
+                "word": " massive",
+                "probability": 0.998166561126709
+            },
+            {
+                "start": 58.64,
+                "end": 58.94,
+                "word": " rock",
+                "probability": 0.9969545602798462
+            },
+            {
+                "start": 58.94,
+                "end": 59.38,
+                "word": " wrapped",
+                "probability": 0.9827396869659424
+            },
+            {
+                "start": 59.38,
+                "end": 59.58,
+                "word": " in",
+                "probability": 0.9972521662712097
+            },
+            {
+                "start": 59.58,
+                "end": 59.78,
+                "word": " a",
+                "probability": 0.9881966710090637
+            },
+            {
+                "start": 59.78,
+                "end": 60.04,
+                "word": " barely",
+                "probability": 0.8989127278327942
+            },
+            {
+                "start": 60.04,
+                "end": 60.36,
+                "word": " there",
+                "probability": 0.7275227904319763
+            },
+            {
+                "start": 60.36,
+                "end": 60.68,
+                "word": " layer",
+                "probability": 0.9838950037956238
+            },
+            {
+                "start": 60.68,
+                "end": 61.2,
+                "word": " that",
+                "probability": 0.9306934475898743
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "start": 61.2,
+        "end": 62.76,
+        "text": " just happens to keep us alive.",
+        "words": [
+            {
+                "start": 61.2,
+                "end": 61.4,
+                "word": " just",
+                "probability": 0.9933828115463257
+            },
+            {
+                "start": 61.4,
+                "end": 61.76,
+                "word": " happens",
+                "probability": 0.9906534552574158
+            },
+            {
+                "start": 61.76,
+                "end": 62.0,
+                "word": " to",
+                "probability": 0.9966939687728882
+            },
+            {
+                "start": 62.0,
+                "end": 62.16,
+                "word": " keep",
+                "probability": 0.9962820410728455
+            },
+            {
+                "start": 62.16,
+                "end": 62.4,
+                "word": " us",
+                "probability": 0.9984079003334045
+            },
+            {
+                "start": 62.4,
+                "end": 62.76,
+                "word": " alive.",
+                "probability": 0.9993658661842346
+            }
+        ]
+    }
+]

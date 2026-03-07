@@ -3,9 +3,11 @@
 import pytest
 from pathlib import Path
 
+from pydantic import ValidationError
+
 from src.stt_to_vtt import stt_to_vtt, STOP_CHARS, _seconds_to_vtt_time, _end_with_stop_char
 
-FILES_DIR = Path(__file__) / "test_data"
+FILES_DIR = Path(__file__).parent / "test_data"
 
 
 def _discover_input_expected_pairs():
@@ -83,5 +85,13 @@ def test_fast_whisper_json_string():
 
 
 def test_unsupported_format_raises():
-    with pytest.raises(ValueError, match="Expected a non-empty list of segments"):
+    with pytest.raises(ValueError, match="Input must be a list"):
         stt_to_vtt({"foo": "bar"})
+
+
+def test_invalid_segment_raises_validation_error():
+    """Invalid segment structure (missing required field) raises ValidationError."""
+    # Missing required "start" and "end" on segment
+    data = [{"id": 1, "text": "Hello"}]
+    with pytest.raises(ValidationError):
+        stt_to_vtt(data)

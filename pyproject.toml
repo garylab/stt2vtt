@@ -22,7 +22,9 @@ classifiers = [
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
 
-dependencies = []
+dependencies = [
+    "pydantic>=2.0",
+]
 
 [project.scripts]
 stt2vtt = "src.cli:main"

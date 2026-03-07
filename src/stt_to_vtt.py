@@ -4,6 +4,24 @@ import json
 from types import SimpleNamespace
 from typing import Any, List, Union
 
+from pydantic import ValidationError
+
+from .schemas import Segment
+
+
+def _validate_input(data: Any) -> List[Segment]:
+    """Parse and validate input. Input must be a list of segments or a JSON string of that list.
+    Raises ValueError if not a list; ValidationError if segment structure is invalid.
+    """
+    if isinstance(data, str):
+        data = json.loads(data)
+    if not isinstance(data, list):
+        raise ValueError("Input must be a list of segments or a JSON string of that list.")
+    if not data:
+        raise ValueError("Input list must not be empty.")
+    return [Segment.model_validate(seg) for seg in data]
+
+
 STOP_CHARS = set(
     ".!?,:;…‥"
     "。！？，、；："
@@ -35,18 +53,16 @@ def _end_with_stop_char(text: str) -> bool:
     return any(text.endswith(c) for c in STOP_CHARS)
 
 
-def _normalize_fast_whisper(segments: List[Any]) -> List[SimpleNamespace]:
-    """Normalize fast-whisper style segments to internal format."""
+def _segments_to_internal(segments: List[Segment]) -> List[SimpleNamespace]:
+    """Convert validated Segment models to internal format."""
     out = []
     for seg in segments:
-        words = []
-        for w in seg.get("words", []):
-            start = float(w.get("start", 0))
-            end = float(w.get("end", 0))
-            word = w.get("word", "")
-            words.append(SimpleNamespace(start=start, end=end, word=word))
-        start = float(seg.get("start", 0))
-        end = float(seg.get("end", 0))
+        words = [
+            SimpleNamespace(start=w.start, end=w.end, word=w.word)
+            for w in seg.words
+        ]
+        start = seg.start
+        end = seg.end
         if words and start == 0 and end == 0:
             start = words[0].start
             end = words[-1].end
@@ -54,29 +70,25 @@ def _normalize_fast_whisper(segments: List[Any]) -> List[SimpleNamespace]:
             SimpleNamespace(
                 start=start,
                 end=end,
-                text=seg.get("text", ""),
+                text=seg.text,
                 words=words,
             )
         )
     return out
 
 
-def _parse_and_normalize(data: Any) -> List[SimpleNamespace]:
-    """Parse input and return normalized segments (fast-whisper format only)."""
-    if isinstance(data, str):
-        data = json.loads(data)
-    if isinstance(data, dict) and "segments" in data:
-        data = data["segments"]
-    if not isinstance(data, list) or not data:
-        raise ValueError("Expected a non-empty list of segments (fast-whisper format).")
-    if not isinstance(data[0], dict):
-        raise ValueError("Expected a list of segment objects with start, end, text, words.")
-    return _normalize_fast_whisper(data)
-
-
 def _segments_to_subtitle(segments: List[SimpleNamespace]) -> List[dict]:
     subtitles = []
     for segment in segments:
+        # No word-level timestamps: use segment start/end and text as one cue
+        if not segment.words:
+            text = (segment.text or "").strip()
+            if text and segment.start < segment.end:
+                subtitles.append(
+                    {"msg": text, "start_time": segment.start, "end_time": segment.end}
+                )
+            continue
+
         words_idx = 0
         words_len = len(segment.words)
         seg_start = 0.0
@@ -136,14 +148,18 @@ def _format_vtt(subtitles: List[dict]) -> str:
 def stt_to_vtt(stt_result: Union[str, bytes, list, dict]) -> str:
     """Convert fast-whisper STT result to WebVTT text.
 
+    Input must be a list of segments or a JSON string of that list (see tests/test_data/jp2-input.json).
+    Raises ValueError if input is not a list; pydantic.ValidationError if segment structure is invalid.
+
     Args:
-        stt_result: JSON string or parsed list of segments (fast-whisper format).
+        stt_result: List of segments, or JSON string of that list (fast-whisper format).
 
     Returns:
         WebVTT subtitle content as a string.
     """
     if isinstance(stt_result, bytes):
         stt_result = stt_result.decode("utf-8")
-    segments = _parse_and_normalize(stt_result)
-    subtitles = _segments_to_subtitle(segments)
+    segments = _validate_input(stt_result)
+    internal = _segments_to_internal(segments)
+    subtitles = _segments_to_subtitle(internal)
     return _format_vtt(subtitles)

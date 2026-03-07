@@ -16,8 +16,9 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  stt2vtt result.json -o output.vtt
-  stt2vtt result.json
+  stt2vtt result.json              # writes result.vtt in current dir
+  stt2vtt /path/to/result.json     # writes result.vtt in current dir
+  stt2vtt result.json -o out.vtt  # writes out.vtt
   cat result.json | stt2vtt -o output.vtt
         """,
     )
@@ -32,7 +33,7 @@ Examples:
         "-o", "--output",
         type=str,
         default=None,
-        help="Output VTT file (default: stdout)",
+        help="Output VTT file (default: <input_stem>.vtt in current dir when input is a file, else stdout)",
     )
     parser.add_argument(
         "-q", "--quiet",
@@ -62,9 +63,17 @@ Examples:
         vtt = stt_to_vtt(content)
 
         if args.output:
-            Path(args.output).write_text(vtt, encoding="utf-8")
+            out_path = Path(args.output)
+        elif args.input:
+            # Input from file: save as <stem>.vtt in current dir
+            out_path = Path.cwd() / f"{Path(args.input).stem}.vtt"
+        else:
+            out_path = None
+
+        if out_path is not None:
+            out_path.write_text(vtt, encoding="utf-8")
             if not args.quiet:
-                print(f"Written: {args.output}", file=sys.stderr)
+                print(f"Written: {out_path}", file=sys.stderr)
         else:
             print(vtt)
     except ValueError as e:
