@@ -1,0 +1,6059 @@
+[
+    {
+        "id": 1,
+        "start": 0.0,
+        "end": 5.02,
+        "text": " So, what if I told you that you can stay in this incredible eco village?",
+        "words": [
+            {
+                "start": 0.0,
+                "end": 0.74,
+                "word": " So,"
+            },
+            {
+                "start": 0.84,
+                "end": 0.88,
+                "word": " what"
+            },
+            {
+                "start": 0.88,
+                "end": 1.0,
+                "word": " if"
+            },
+            {
+                "start": 1.0,
+                "end": 1.08,
+                "word": " I"
+            },
+            {
+                "start": 1.08,
+                "end": 1.24,
+                "word": " told"
+            },
+            {
+                "start": 1.24,
+                "end": 1.46,
+                "word": " you"
+            },
+            {
+                "start": 1.46,
+                "end": 1.76,
+                "word": " that"
+            },
+            {
+                "start": 1.76,
+                "end": 1.9,
+                "word": " you"
+            },
+            {
+                "start": 1.9,
+                "end": 2.02,
+                "word": " can"
+            },
+            {
+                "start": 2.02,
+                "end": 2.36,
+                "word": " stay"
+            },
+            {
+                "start": 2.36,
+                "end": 2.72,
+                "word": " in"
+            },
+            {
+                "start": 2.72,
+                "end": 3.04,
+                "word": " this"
+            },
+            {
+                "start": 3.04,
+                "end": 4.14,
+                "word": " incredible"
+            },
+            {
+                "start": 4.14,
+                "end": 4.66,
+                "word": " eco"
+            },
+            {
+                "start": 4.66,
+                "end": 5.02,
+                "word": " village?"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "start": 11.34,
+        "end": 19.28,
+        "text": " For free. Today I'm here during this week doing a World Packers Experience, which is a volunteering experience.",
+        "words": [
+            {
+                "start": 11.34,
+                "end": 11.94,
+                "word": " For"
+            },
+            {
+                "start": 11.94,
+                "end": 12.16,
+                "word": " free."
+            },
+            {
+                "start": 12.52,
+                "end": 12.96,
+                "word": " Today"
+            },
+            {
+                "start": 12.96,
+                "end": 13.62,
+                "word": " I'm"
+            },
+            {
+                "start": 13.62,
+                "end": 13.84,
+                "word": " here"
+            },
+            {
+                "start": 13.84,
+                "end": 14.42,
+                "word": " during"
+            },
+            {
+                "start": 14.42,
+                "end": 14.68,
+                "word": " this"
+            },
+            {
+                "start": 14.68,
+                "end": 14.96,
+                "word": " week"
+            },
+            {
+                "start": 14.96,
+                "end": 15.52,
+                "word": " doing"
+            },
+            {
+                "start": 15.52,
+                "end": 15.7,
+                "word": " a"
+            },
+            {
+                "start": 15.7,
+                "end": 16.04,
+                "word": " World"
+            },
+            {
+                "start": 16.04,
+                "end": 16.48,
+                "word": " Packers"
+            },
+            {
+                "start": 16.48,
+                "end": 17.04,
+                "word": " Experience,"
+            },
+            {
+                "start": 17.6,
+                "end": 17.76,
+                "word": " which"
+            },
+            {
+                "start": 17.76,
+                "end": 17.94,
+                "word": " is"
+            },
+            {
+                "start": 17.94,
+                "end": 18.08,
+                "word": " a"
+            },
+            {
+                "start": 18.08,
+                "end": 18.34,
+                "word": " volunteering"
+            },
+            {
+                "start": 18.34,
+                "end": 19.28,
+                "word": " experience."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "start": 19.92,
+        "end": 25.08,
+        "text": " And I'm staying for free in this bungalow right here that I'm gonna show you right now.",
+        "words": [
+            {
+                "start": 19.92,
+                "end": 20.46,
+                "word": " And"
+            },
+            {
+                "start": 20.46,
+                "end": 20.72,
+                "word": " I'm"
+            },
+            {
+                "start": 20.72,
+                "end": 20.9,
+                "word": " staying"
+            },
+            {
+                "start": 20.9,
+                "end": 21.08,
+                "word": " for"
+            },
+            {
+                "start": 21.08,
+                "end": 21.32,
+                "word": " free"
+            },
+            {
+                "start": 21.32,
+                "end": 21.68,
+                "word": " in"
+            },
+            {
+                "start": 21.68,
+                "end": 22.14,
+                "word": " this"
+            },
+            {
+                "start": 22.14,
+                "end": 22.94,
+                "word": " bungalow"
+            },
+            {
+                "start": 22.94,
+                "end": 23.14,
+                "word": " right"
+            },
+            {
+                "start": 23.14,
+                "end": 23.46,
+                "word": " here"
+            },
+            {
+                "start": 23.46,
+                "end": 23.8,
+                "word": " that"
+            },
+            {
+                "start": 23.8,
+                "end": 23.96,
+                "word": " I'm"
+            },
+            {
+                "start": 23.96,
+                "end": 24.08,
+                "word": " gonna"
+            },
+            {
+                "start": 24.08,
+                "end": 24.38,
+                "word": " show"
+            },
+            {
+                "start": 24.38,
+                "end": 24.62,
+                "word": " you"
+            },
+            {
+                "start": 24.62,
+                "end": 24.84,
+                "word": " right"
+            },
+            {
+                "start": 24.84,
+                "end": 25.08,
+                "word": " now."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "start": 25.82,
+        "end": 32.2,
+        "text": " Yes, all for me, in the middle of the jungles of Shammai.",
+        "words": [
+            {
+                "start": 25.82,
+                "end": 26.42,
+                "word": " Yes,"
+            },
+            {
+                "start": 26.9,
+                "end": 27.14,
+                "word": " all"
+            },
+            {
+                "start": 27.14,
+                "end": 27.48,
+                "word": " for"
+            },
+            {
+                "start": 27.48,
+                "end": 27.8,
+                "word": " me,"
+            },
+            {
+                "start": 28.1,
+                "end": 28.86,
+                "word": " in"
+            },
+            {
+                "start": 28.86,
+                "end": 29.68,
+                "word": " the"
+            },
+            {
+                "start": 29.68,
+                "end": 29.98,
+                "word": " middle"
+            },
+            {
+                "start": 29.98,
+                "end": 31.08,
+                "word": " of"
+            },
+            {
+                "start": 31.08,
+                "end": 31.26,
+                "word": " the"
+            },
+            {
+                "start": 31.26,
+                "end": 31.64,
+                "word": " jungles"
+            },
+            {
+                "start": 31.64,
+                "end": 31.8,
+                "word": " of"
+            },
+            {
+                "start": 31.8,
+                "end": 32.2,
+                "word": " Shammai."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "start": 35.84,
+        "end": 39.42,
+        "text": " This is actually my first world packer's experience ever.",
+        "words": [
+            {
+                "start": 35.84,
+                "end": 36.44,
+                "word": " This"
+            },
+            {
+                "start": 36.44,
+                "end": 36.56,
+                "word": " is"
+            },
+            {
+                "start": 36.56,
+                "end": 36.86,
+                "word": " actually"
+            },
+            {
+                "start": 36.86,
+                "end": 37.06,
+                "word": " my"
+            },
+            {
+                "start": 37.06,
+                "end": 37.62,
+                "word": " first"
+            },
+            {
+                "start": 37.62,
+                "end": 37.84,
+                "word": " world"
+            },
+            {
+                "start": 37.84,
+                "end": 38.42,
+                "word": " packer's"
+            },
+            {
+                "start": 38.42,
+                "end": 38.94,
+                "word": " experience"
+            },
+            {
+                "start": 38.94,
+                "end": 39.42,
+                "word": " ever."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "start": 39.74,
+        "end": 42.78,
+        "text": " When the guys of world packers contacted me, I said,",
+        "words": [
+            {
+                "start": 39.74,
+                "end": 39.82,
+                "word": " When"
+            },
+            {
+                "start": 39.82,
+                "end": 39.9,
+                "word": " the"
+            },
+            {
+                "start": 39.9,
+                "end": 40.06,
+                "word": " guys"
+            },
+            {
+                "start": 40.06,
+                "end": 40.48,
+                "word": " of"
+            },
+            {
+                "start": 40.48,
+                "end": 40.74,
+                "word": " world"
+            },
+            {
+                "start": 40.74,
+                "end": 41.18,
+                "word": " packers"
+            },
+            {
+                "start": 41.18,
+                "end": 41.5,
+                "word": " contacted"
+            },
+            {
+                "start": 41.5,
+                "end": 41.94,
+                "word": " me,"
+            },
+            {
+                "start": 42.3,
+                "end": 42.4,
+                "word": " I"
+            },
+            {
+                "start": 42.4,
+                "end": 42.78,
+                "word": " said,"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "start": 43.34,
+        "end": 44.72,
+        "text": " yes, I'm definitely gonna do it.",
+        "words": [
+            {
+                "start": 43.34,
+                "end": 43.44,
+                "word": " yes,"
+            },
+            {
+                "start": 43.76,
+                "end": 43.9,
+                "word": " I'm"
+            },
+            {
+                "start": 43.9,
+                "end": 44.18,
+                "word": " definitely"
+            },
+            {
+                "start": 44.18,
+                "end": 44.44,
+                "word": " gonna"
+            },
+            {
+                "start": 44.44,
+                "end": 44.62,
+                "word": " do"
+            },
+            {
+                "start": 44.62,
+                "end": 44.72,
+                "word": " it."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "start": 44.82,
+        "end": 46.76,
+        "text": " I think this is gonna be super helpful.",
+        "words": [
+            {
+                "start": 44.82,
+                "end": 44.88,
+                "word": " I"
+            },
+            {
+                "start": 44.88,
+                "end": 45.08,
+                "word": " think"
+            },
+            {
+                "start": 45.08,
+                "end": 45.64,
+                "word": " this"
+            },
+            {
+                "start": 45.64,
+                "end": 45.78,
+                "word": " is"
+            },
+            {
+                "start": 45.78,
+                "end": 45.98,
+                "word": " gonna"
+            },
+            {
+                "start": 45.98,
+                "end": 46.1,
+                "word": " be"
+            },
+            {
+                "start": 46.1,
+                "end": 46.38,
+                "word": " super"
+            },
+            {
+                "start": 46.38,
+                "end": 46.76,
+                "word": " helpful."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "start": 46.96,
+        "end": 50.14,
+        "text": " A lot of my audience is always asking me,",
+        "words": [
+            {
+                "start": 46.96,
+                "end": 46.96,
+                "word": " A"
+            },
+            {
+                "start": 46.96,
+                "end": 47.06,
+                "word": " lot"
+            },
+            {
+                "start": 47.06,
+                "end": 47.22,
+                "word": " of"
+            },
+            {
+                "start": 47.22,
+                "end": 47.54,
+                "word": " my"
+            },
+            {
+                "start": 47.54,
+                "end": 48.72,
+                "word": " audience"
+            },
+            {
+                "start": 48.72,
+                "end": 48.98,
+                "word": " is"
+            },
+            {
+                "start": 48.98,
+                "end": 49.4,
+                "word": " always"
+            },
+            {
+                "start": 49.4,
+                "end": 49.88,
+                "word": " asking"
+            },
+            {
+                "start": 49.88,
+                "end": 50.14,
+                "word": " me,"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "start": 50.46,
+        "end": 52.66,
+        "text": " how can I travel on a budget?",
+        "words": [
+            {
+                "start": 50.46,
+                "end": 50.6,
+                "word": " how"
+            },
+            {
+                "start": 50.6,
+                "end": 51.0,
+                "word": " can"
+            },
+            {
+                "start": 51.0,
+                "end": 51.12,
+                "word": " I"
+            },
+            {
+                "start": 51.12,
+                "end": 51.5,
+                "word": " travel"
+            },
+            {
+                "start": 51.5,
+                "end": 52.34,
+                "word": " on"
+            },
+            {
+                "start": 52.34,
+                "end": 52.42,
+                "word": " a"
+            },
+            {
+                "start": 52.42,
+                "end": 52.66,
+                "word": " budget?"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "start": 52.66,
+        "end": 59.96,
+        "text": " Well, this is a way to travel for free, to travel and not only to travel but to have a deeper",
+        "words": [
+            {
+                "start": 52.66,
+                "end": 53.16,
+                "word": " Well,"
+            },
+            {
+                "start": 53.46,
+                "end": 53.62,
+                "word": " this"
+            },
+            {
+                "start": 53.62,
+                "end": 53.74,
+                "word": " is"
+            },
+            {
+                "start": 53.74,
+                "end": 53.9,
+                "word": " a"
+            },
+            {
+                "start": 53.9,
+                "end": 54.02,
+                "word": " way"
+            },
+            {
+                "start": 54.02,
+                "end": 54.48,
+                "word": " to"
+            },
+            {
+                "start": 54.48,
+                "end": 54.8,
+                "word": " travel"
+            },
+            {
+                "start": 54.8,
+                "end": 55.4,
+                "word": " for"
+            },
+            {
+                "start": 55.4,
+                "end": 55.8,
+                "word": " free,"
+            },
+            {
+                "start": 55.96,
+                "end": 56.36,
+                "word": " to"
+            },
+            {
+                "start": 56.36,
+                "end": 56.68,
+                "word": " travel"
+            },
+            {
+                "start": 56.68,
+                "end": 57.02,
+                "word": " and"
+            },
+            {
+                "start": 57.02,
+                "end": 57.24,
+                "word": " not"
+            },
+            {
+                "start": 57.24,
+                "end": 57.76,
+                "word": " only"
+            },
+            {
+                "start": 57.76,
+                "end": 57.92,
+                "word": " to"
+            },
+            {
+                "start": 57.92,
+                "end": 58.26,
+                "word": " travel"
+            },
+            {
+                "start": 58.26,
+                "end": 58.5,
+                "word": " but"
+            },
+            {
+                "start": 58.5,
+                "end": 58.7,
+                "word": " to"
+            },
+            {
+                "start": 58.7,
+                "end": 58.92,
+                "word": " have"
+            },
+            {
+                "start": 58.92,
+                "end": 59.56,
+                "word": " a"
+            },
+            {
+                "start": 59.56,
+                "end": 59.96,
+                "word": " deeper"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "start": 59.96,
+        "end": 63.12,
+        "text": " experience with locals helping locals.",
+        "words": [
+            {
+                "start": 59.96,
+                "end": 60.66,
+                "word": " experience"
+            },
+            {
+                "start": 60.66,
+                "end": 61.26,
+                "word": " with"
+            },
+            {
+                "start": 61.26,
+                "end": 61.6,
+                "word": " locals"
+            },
+            {
+                "start": 61.6,
+                "end": 62.46,
+                "word": " helping"
+            },
+            {
+                "start": 62.46,
+                "end": 63.12,
+                "word": " locals."
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "start": 63.46,
+        "end": 70.46,
+        "text": " Well Packers this app is one of many that does this service but this one has something really",
+        "words": [
+            {
+                "start": 63.46,
+                "end": 63.78,
+                "word": " Well"
+            },
+            {
+                "start": 63.78,
+                "end": 64.16,
+                "word": " Packers"
+            },
+            {
+                "start": 64.16,
+                "end": 64.86,
+                "word": " this"
+            },
+            {
+                "start": 64.86,
+                "end": 66.02,
+                "word": " app"
+            },
+            {
+                "start": 66.02,
+                "end": 66.3,
+                "word": " is"
+            },
+            {
+                "start": 66.3,
+                "end": 66.5,
+                "word": " one"
+            },
+            {
+                "start": 66.5,
+                "end": 66.66,
+                "word": " of"
+            },
+            {
+                "start": 66.66,
+                "end": 67.04,
+                "word": " many"
+            },
+            {
+                "start": 67.04,
+                "end": 67.38,
+                "word": " that"
+            },
+            {
+                "start": 67.38,
+                "end": 67.6,
+                "word": " does"
+            },
+            {
+                "start": 67.6,
+                "end": 67.92,
+                "word": " this"
+            },
+            {
+                "start": 67.92,
+                "end": 68.3,
+                "word": " service"
+            },
+            {
+                "start": 68.3,
+                "end": 68.5,
+                "word": " but"
+            },
+            {
+                "start": 68.5,
+                "end": 68.7,
+                "word": " this"
+            },
+            {
+                "start": 68.7,
+                "end": 68.88,
+                "word": " one"
+            },
+            {
+                "start": 68.88,
+                "end": 69.22,
+                "word": " has"
+            },
+            {
+                "start": 69.22,
+                "end": 69.66,
+                "word": " something"
+            },
+            {
+                "start": 69.66,
+                "end": 70.46,
+                "word": " really"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "start": 70.46,
+        "end": 76.0,
+        "text": " cool which is you can access the reviews of all the travelers that have gone there.",
+        "words": [
+            {
+                "start": 70.46,
+                "end": 70.8,
+                "word": " cool"
+            },
+            {
+                "start": 70.8,
+                "end": 71.14,
+                "word": " which"
+            },
+            {
+                "start": 71.14,
+                "end": 71.4,
+                "word": " is"
+            },
+            {
+                "start": 71.4,
+                "end": 72.26,
+                "word": " you"
+            },
+            {
+                "start": 72.26,
+                "end": 72.36,
+                "word": " can"
+            },
+            {
+                "start": 72.36,
+                "end": 72.6,
+                "word": " access"
+            },
+            {
+                "start": 72.6,
+                "end": 72.84,
+                "word": " the"
+            },
+            {
+                "start": 72.84,
+                "end": 73.22,
+                "word": " reviews"
+            },
+            {
+                "start": 73.22,
+                "end": 73.72,
+                "word": " of"
+            },
+            {
+                "start": 73.72,
+                "end": 74.26,
+                "word": " all"
+            },
+            {
+                "start": 74.26,
+                "end": 74.42,
+                "word": " the"
+            },
+            {
+                "start": 74.42,
+                "end": 74.8,
+                "word": " travelers"
+            },
+            {
+                "start": 74.8,
+                "end": 75.02,
+                "word": " that"
+            },
+            {
+                "start": 75.02,
+                "end": 75.3,
+                "word": " have"
+            },
+            {
+                "start": 75.3,
+                "end": 75.58,
+                "word": " gone"
+            },
+            {
+                "start": 75.58,
+                "end": 76.0,
+                "word": " there."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "start": 76.0,
+        "end": 83.02,
+        "text": " you can also have this security that they have by having an assistance for",
+        "words": [
+            {
+                "start": 76.0,
+                "end": 76.8,
+                "word": " you"
+            },
+            {
+                "start": 76.8,
+                "end": 77.04,
+                "word": " can"
+            },
+            {
+                "start": 77.04,
+                "end": 77.58,
+                "word": " also"
+            },
+            {
+                "start": 77.58,
+                "end": 78.2,
+                "word": " have"
+            },
+            {
+                "start": 78.2,
+                "end": 78.48,
+                "word": " this"
+            },
+            {
+                "start": 78.48,
+                "end": 79.3,
+                "word": " security"
+            },
+            {
+                "start": 79.3,
+                "end": 80.2,
+                "word": " that"
+            },
+            {
+                "start": 80.2,
+                "end": 80.84,
+                "word": " they"
+            },
+            {
+                "start": 80.84,
+                "end": 81.14,
+                "word": " have"
+            },
+            {
+                "start": 81.14,
+                "end": 81.56,
+                "word": " by"
+            },
+            {
+                "start": 81.56,
+                "end": 82.02,
+                "word": " having"
+            },
+            {
+                "start": 82.02,
+                "end": 82.16,
+                "word": " an"
+            },
+            {
+                "start": 82.16,
+                "end": 82.56,
+                "word": " assistance"
+            },
+            {
+                "start": 82.56,
+                "end": 83.02,
+                "word": " for"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "start": 83.02,
+        "end": 88.62,
+        "text": " 24 hours in case anything goes wrong with your trip which in my case for",
+        "words": [
+            {
+                "start": 83.02,
+                "end": 83.58,
+                "word": " 24"
+            },
+            {
+                "start": 83.58,
+                "end": 84.16,
+                "word": " hours"
+            },
+            {
+                "start": 84.16,
+                "end": 84.84,
+                "word": " in"
+            },
+            {
+                "start": 84.84,
+                "end": 84.98,
+                "word": " case"
+            },
+            {
+                "start": 84.98,
+                "end": 85.56,
+                "word": " anything"
+            },
+            {
+                "start": 85.56,
+                "end": 86.08,
+                "word": " goes"
+            },
+            {
+                "start": 86.08,
+                "end": 86.56,
+                "word": " wrong"
+            },
+            {
+                "start": 86.56,
+                "end": 86.86,
+                "word": " with"
+            },
+            {
+                "start": 86.86,
+                "end": 87.04,
+                "word": " your"
+            },
+            {
+                "start": 87.04,
+                "end": 87.36,
+                "word": " trip"
+            },
+            {
+                "start": 87.36,
+                "end": 87.72,
+                "word": " which"
+            },
+            {
+                "start": 87.72,
+                "end": 88.02,
+                "word": " in"
+            },
+            {
+                "start": 88.02,
+                "end": 88.16,
+                "word": " my"
+            },
+            {
+                "start": 88.16,
+                "end": 88.4,
+                "word": " case"
+            },
+            {
+                "start": 88.4,
+                "end": 88.62,
+                "word": " for"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "start": 88.62,
+        "end": 97.3,
+        "text": " example it hasn't it has been amazing absolutely amazing this is what I'm doing",
+        "words": [
+            {
+                "start": 88.62,
+                "end": 89.0,
+                "word": " example"
+            },
+            {
+                "start": 89.0,
+                "end": 89.4,
+                "word": " it"
+            },
+            {
+                "start": 89.4,
+                "end": 90.08,
+                "word": " hasn't"
+            },
+            {
+                "start": 90.08,
+                "end": 90.24,
+                "word": " it"
+            },
+            {
+                "start": 90.24,
+                "end": 90.46,
+                "word": " has"
+            },
+            {
+                "start": 90.46,
+                "end": 90.68,
+                "word": " been"
+            },
+            {
+                "start": 90.68,
+                "end": 91.92,
+                "word": " amazing"
+            },
+            {
+                "start": 91.92,
+                "end": 92.52,
+                "word": " absolutely"
+            },
+            {
+                "start": 92.52,
+                "end": 93.06,
+                "word": " amazing"
+            },
+            {
+                "start": 93.06,
+                "end": 95.04,
+                "word": " this"
+            },
+            {
+                "start": 95.04,
+                "end": 96.92,
+                "word": " is"
+            },
+            {
+                "start": 96.92,
+                "end": 97.06,
+                "word": " what"
+            },
+            {
+                "start": 97.06,
+                "end": 97.14,
+                "word": " I'm"
+            },
+            {
+                "start": 97.14,
+                "end": 97.3,
+                "word": " doing"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "start": 97.3,
+        "end": 101.58,
+        "text": " in this volunteering experience here in the beautiful spicy villa and the whole",
+        "words": [
+            {
+                "start": 97.3,
+                "end": 97.44,
+                "word": " in"
+            },
+            {
+                "start": 97.44,
+                "end": 97.6,
+                "word": " this"
+            },
+            {
+                "start": 97.6,
+                "end": 97.92,
+                "word": " volunteering"
+            },
+            {
+                "start": 97.92,
+                "end": 98.62,
+                "word": " experience"
+            },
+            {
+                "start": 98.62,
+                "end": 98.9,
+                "word": " here"
+            },
+            {
+                "start": 98.9,
+                "end": 99.06,
+                "word": " in"
+            },
+            {
+                "start": 99.06,
+                "end": 99.14,
+                "word": " the"
+            },
+            {
+                "start": 99.14,
+                "end": 99.56,
+                "word": " beautiful"
+            },
+            {
+                "start": 99.56,
+                "end": 100.48,
+                "word": " spicy"
+            },
+            {
+                "start": 100.48,
+                "end": 100.8,
+                "word": " villa"
+            },
+            {
+                "start": 100.8,
+                "end": 101.12,
+                "word": " and"
+            },
+            {
+                "start": 101.12,
+                "end": 101.36,
+                "word": " the"
+            },
+            {
+                "start": 101.36,
+                "end": 101.58,
+                "word": " whole"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "start": 101.58,
+        "end": 107.76,
+        "text": " place is just beautiful right it's an echo lot so everything it's you know you have all these",
+        "words": [
+            {
+                "start": 101.58,
+                "end": 101.86,
+                "word": " place"
+            },
+            {
+                "start": 101.86,
+                "end": 102.06,
+                "word": " is"
+            },
+            {
+                "start": 102.06,
+                "end": 102.3,
+                "word": " just"
+            },
+            {
+                "start": 102.3,
+                "end": 102.96,
+                "word": " beautiful"
+            },
+            {
+                "start": 102.96,
+                "end": 103.18,
+                "word": " right"
+            },
+            {
+                "start": 103.18,
+                "end": 103.5,
+                "word": " it's"
+            },
+            {
+                "start": 103.5,
+                "end": 103.62,
+                "word": " an"
+            },
+            {
+                "start": 103.62,
+                "end": 103.9,
+                "word": " echo"
+            },
+            {
+                "start": 103.9,
+                "end": 104.06,
+                "word": " lot"
+            },
+            {
+                "start": 104.06,
+                "end": 104.36,
+                "word": " so"
+            },
+            {
+                "start": 104.36,
+                "end": 104.74,
+                "word": " everything"
+            },
+            {
+                "start": 104.74,
+                "end": 105.44,
+                "word": " it's"
+            },
+            {
+                "start": 105.44,
+                "end": 105.96,
+                "word": " you"
+            },
+            {
+                "start": 105.96,
+                "end": 106.18,
+                "word": " know"
+            },
+            {
+                "start": 106.18,
+                "end": 106.84,
+                "word": " you"
+            },
+            {
+                "start": 106.84,
+                "end": 107.32,
+                "word": " have"
+            },
+            {
+                "start": 107.32,
+                "end": 107.58,
+                "word": " all"
+            },
+            {
+                "start": 107.58,
+                "end": 107.76,
+                "word": " these"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "start": 107.76,
+        "end": 115.54,
+        "text": " solar panels and everything it's very much eco-friendly and i'm gonna guide you through all my",
+        "words": [
+            {
+                "start": 107.76,
+                "end": 108.06,
+                "word": " solar"
+            },
+            {
+                "start": 108.06,
+                "end": 108.68,
+                "word": " panels"
+            },
+            {
+                "start": 108.68,
+                "end": 109.44,
+                "word": " and"
+            },
+            {
+                "start": 109.44,
+                "end": 109.9,
+                "word": " everything"
+            },
+            {
+                "start": 109.9,
+                "end": 110.74,
+                "word": " it's"
+            },
+            {
+                "start": 110.74,
+                "end": 111.28,
+                "word": " very"
+            },
+            {
+                "start": 111.28,
+                "end": 111.76,
+                "word": " much"
+            },
+            {
+                "start": 111.76,
+                "end": 112.0,
+                "word": " eco"
+            },
+            {
+                "start": 112.0,
+                "end": 112.42,
+                "word": "-friendly"
+            },
+            {
+                "start": 112.42,
+                "end": 113.38,
+                "word": " and"
+            },
+            {
+                "start": 113.38,
+                "end": 113.58,
+                "word": " i'm"
+            },
+            {
+                "start": 113.58,
+                "end": 113.74,
+                "word": " gonna"
+            },
+            {
+                "start": 113.74,
+                "end": 113.96,
+                "word": " guide"
+            },
+            {
+                "start": 113.96,
+                "end": 114.16,
+                "word": " you"
+            },
+            {
+                "start": 114.16,
+                "end": 114.4,
+                "word": " through"
+            },
+            {
+                "start": 114.4,
+                "end": 115.22,
+                "word": " all"
+            },
+            {
+                "start": 115.22,
+                "end": 115.54,
+                "word": " my"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "start": 115.54,
+        "end": 125.24,
+        "text": " experience so let's start with the basics before i got here i applied for five i think positions",
+        "words": [
+            {
+                "start": 115.54,
+                "end": 116.1,
+                "word": " experience"
+            },
+            {
+                "start": 116.1,
+                "end": 117.18,
+                "word": " so"
+            },
+            {
+                "start": 117.18,
+                "end": 117.5,
+                "word": " let's"
+            },
+            {
+                "start": 117.5,
+                "end": 117.8,
+                "word": " start"
+            },
+            {
+                "start": 117.8,
+                "end": 118.34,
+                "word": " with"
+            },
+            {
+                "start": 118.34,
+                "end": 119.06,
+                "word": " the"
+            },
+            {
+                "start": 119.06,
+                "end": 119.38,
+                "word": " basics"
+            },
+            {
+                "start": 119.38,
+                "end": 119.9,
+                "word": " before"
+            },
+            {
+                "start": 119.9,
+                "end": 120.08,
+                "word": " i"
+            },
+            {
+                "start": 120.08,
+                "end": 120.22,
+                "word": " got"
+            },
+            {
+                "start": 120.22,
+                "end": 120.48,
+                "word": " here"
+            },
+            {
+                "start": 120.48,
+                "end": 121.4,
+                "word": " i"
+            },
+            {
+                "start": 121.4,
+                "end": 121.84,
+                "word": " applied"
+            },
+            {
+                "start": 121.84,
+                "end": 122.5,
+                "word": " for"
+            },
+            {
+                "start": 122.5,
+                "end": 123.62,
+                "word": " five"
+            },
+            {
+                "start": 123.62,
+                "end": 123.92,
+                "word": " i"
+            },
+            {
+                "start": 123.92,
+                "end": 124.16,
+                "word": " think"
+            },
+            {
+                "start": 124.16,
+                "end": 125.24,
+                "word": " positions"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "start": 125.98,
+        "end": 131.18,
+        "text": " i didn't have much time i recommend you to do it with a lot more of time but what you have to do",
+        "words": [
+            {
+                "start": 125.97,
+                "end": 126.26,
+                "word": " i"
+            },
+            {
+                "start": 126.26,
+                "end": 126.74,
+                "word": " didn't"
+            },
+            {
+                "start": 126.74,
+                "end": 126.88,
+                "word": " have"
+            },
+            {
+                "start": 126.88,
+                "end": 127.22,
+                "word": " much"
+            },
+            {
+                "start": 127.22,
+                "end": 127.46,
+                "word": " time"
+            },
+            {
+                "start": 127.46,
+                "end": 127.6,
+                "word": " i"
+            },
+            {
+                "start": 127.6,
+                "end": 127.84,
+                "word": " recommend"
+            },
+            {
+                "start": 127.84,
+                "end": 128.06,
+                "word": " you"
+            },
+            {
+                "start": 128.06,
+                "end": 128.2,
+                "word": " to"
+            },
+            {
+                "start": 128.2,
+                "end": 128.34,
+                "word": " do"
+            },
+            {
+                "start": 128.34,
+                "end": 128.44,
+                "word": " it"
+            },
+            {
+                "start": 128.44,
+                "end": 128.6,
+                "word": " with"
+            },
+            {
+                "start": 128.6,
+                "end": 128.72,
+                "word": " a"
+            },
+            {
+                "start": 128.72,
+                "end": 128.88,
+                "word": " lot"
+            },
+            {
+                "start": 128.88,
+                "end": 129.38,
+                "word": " more"
+            },
+            {
+                "start": 129.38,
+                "end": 129.58,
+                "word": " of"
+            },
+            {
+                "start": 129.58,
+                "end": 129.76,
+                "word": " time"
+            },
+            {
+                "start": 129.76,
+                "end": 130.04,
+                "word": " but"
+            },
+            {
+                "start": 130.04,
+                "end": 130.62,
+                "word": " what"
+            },
+            {
+                "start": 130.62,
+                "end": 130.76,
+                "word": " you"
+            },
+            {
+                "start": 130.76,
+                "end": 130.92,
+                "word": " have"
+            },
+            {
+                "start": 130.92,
+                "end": 131.08,
+                "word": " to"
+            },
+            {
+                "start": 131.08,
+                "end": 131.18,
+                "word": " do"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "start": 131.18,
+        "end": 140.2,
+        "text": " is you have to apply to two different opportunities and just choose opportunities that suit you,",
+        "words": [
+            {
+                "start": 131.18,
+                "end": 131.32,
+                "word": " is"
+            },
+            {
+                "start": 131.32,
+                "end": 131.46,
+                "word": " you"
+            },
+            {
+                "start": 131.46,
+                "end": 131.64,
+                "word": " have"
+            },
+            {
+                "start": 131.64,
+                "end": 131.8,
+                "word": " to"
+            },
+            {
+                "start": 131.8,
+                "end": 132.12,
+                "word": " apply"
+            },
+            {
+                "start": 132.12,
+                "end": 133.24,
+                "word": " to"
+            },
+            {
+                "start": 133.24,
+                "end": 133.98,
+                "word": " two"
+            },
+            {
+                "start": 133.98,
+                "end": 134.22,
+                "word": " different"
+            },
+            {
+                "start": 134.22,
+                "end": 135.0,
+                "word": " opportunities"
+            },
+            {
+                "start": 135.0,
+                "end": 136.12,
+                "word": " and"
+            },
+            {
+                "start": 136.12,
+                "end": 137.5,
+                "word": " just"
+            },
+            {
+                "start": 137.5,
+                "end": 138.34,
+                "word": " choose"
+            },
+            {
+                "start": 138.34,
+                "end": 139.4,
+                "word": " opportunities"
+            },
+            {
+                "start": 139.4,
+                "end": 139.66,
+                "word": " that"
+            },
+            {
+                "start": 139.66,
+                "end": 139.94,
+                "word": " suit"
+            },
+            {
+                "start": 139.94,
+                "end": 140.2,
+                "word": " you,"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "start": 140.34,
+        "end": 147.02,
+        "text": " you know. In my case, I wanted to do something handy, something that was helpful and that's",
+        "words": [
+            {
+                "start": 140.34,
+                "end": 140.5,
+                "word": " you"
+            },
+            {
+                "start": 140.5,
+                "end": 140.66,
+                "word": " know."
+            },
+            {
+                "start": 141.26,
+                "end": 141.6,
+                "word": " In"
+            },
+            {
+                "start": 141.6,
+                "end": 141.72,
+                "word": " my"
+            },
+            {
+                "start": 141.72,
+                "end": 141.96,
+                "word": " case,"
+            },
+            {
+                "start": 141.96,
+                "end": 142.12,
+                "word": " I"
+            },
+            {
+                "start": 142.12,
+                "end": 142.26,
+                "word": " wanted"
+            },
+            {
+                "start": 142.26,
+                "end": 142.44,
+                "word": " to"
+            },
+            {
+                "start": 142.44,
+                "end": 142.58,
+                "word": " do"
+            },
+            {
+                "start": 142.58,
+                "end": 142.94,
+                "word": " something"
+            },
+            {
+                "start": 142.94,
+                "end": 143.96,
+                "word": " handy,"
+            },
+            {
+                "start": 144.36,
+                "end": 144.7,
+                "word": " something"
+            },
+            {
+                "start": 144.7,
+                "end": 144.92,
+                "word": " that"
+            },
+            {
+                "start": 144.92,
+                "end": 145.06,
+                "word": " was"
+            },
+            {
+                "start": 145.06,
+                "end": 145.44,
+                "word": " helpful"
+            },
+            {
+                "start": 145.44,
+                "end": 146.76,
+                "word": " and"
+            },
+            {
+                "start": 146.76,
+                "end": 147.02,
+                "word": " that's"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "start": 147.02,
+        "end": 156.36,
+        "text": " why I chose this opportunity. The first activity I did right now is just helping clean the rooms",
+        "words": [
+            {
+                "start": 147.02,
+                "end": 147.14,
+                "word": " why"
+            },
+            {
+                "start": 147.14,
+                "end": 147.28,
+                "word": " I"
+            },
+            {
+                "start": 147.28,
+                "end": 147.58,
+                "word": " chose"
+            },
+            {
+                "start": 147.58,
+                "end": 147.88,
+                "word": " this"
+            },
+            {
+                "start": 147.88,
+                "end": 148.44,
+                "word": " opportunity."
+            },
+            {
+                "start": 152.1,
+                "end": 152.66,
+                "word": " The"
+            },
+            {
+                "start": 152.66,
+                "end": 152.86,
+                "word": " first"
+            },
+            {
+                "start": 152.86,
+                "end": 153.18,
+                "word": " activity"
+            },
+            {
+                "start": 153.18,
+                "end": 153.64,
+                "word": " I"
+            },
+            {
+                "start": 153.64,
+                "end": 153.8,
+                "word": " did"
+            },
+            {
+                "start": 153.8,
+                "end": 154.02,
+                "word": " right"
+            },
+            {
+                "start": 154.02,
+                "end": 154.24,
+                "word": " now"
+            },
+            {
+                "start": 154.24,
+                "end": 154.7,
+                "word": " is"
+            },
+            {
+                "start": 154.7,
+                "end": 155.28,
+                "word": " just"
+            },
+            {
+                "start": 155.28,
+                "end": 155.6,
+                "word": " helping"
+            },
+            {
+                "start": 155.6,
+                "end": 155.94,
+                "word": " clean"
+            },
+            {
+                "start": 155.94,
+                "end": 156.08,
+                "word": " the"
+            },
+            {
+                "start": 156.08,
+                "end": 156.36,
+                "word": " rooms"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "start": 156.36,
+        "end": 177.52,
+        "text": " and taking some bamboo from here all the way to here for everyone who's",
+        "words": [
+            {
+                "start": 156.36,
+                "end": 156.9,
+                "word": " and"
+            },
+            {
+                "start": 156.9,
+                "end": 157.32,
+                "word": " taking"
+            },
+            {
+                "start": 157.32,
+                "end": 157.62,
+                "word": " some"
+            },
+            {
+                "start": 157.62,
+                "end": 158.0,
+                "word": " bamboo"
+            },
+            {
+                "start": 158.0,
+                "end": 158.34,
+                "word": " from"
+            },
+            {
+                "start": 158.34,
+                "end": 159.2,
+                "word": " here"
+            },
+            {
+                "start": 159.2,
+                "end": 160.6,
+                "word": " all"
+            },
+            {
+                "start": 160.6,
+                "end": 160.92,
+                "word": " the"
+            },
+            {
+                "start": 160.92,
+                "end": 161.2,
+                "word": " way"
+            },
+            {
+                "start": 161.2,
+                "end": 162.06,
+                "word": " to"
+            },
+            {
+                "start": 162.06,
+                "end": 164.64,
+                "word": " here"
+            },
+            {
+                "start": 164.64,
+                "end": 172.78,
+                "word": " for"
+            },
+            {
+                "start": 172.78,
+                "end": 177.22,
+                "word": " everyone"
+            },
+            {
+                "start": 177.22,
+                "end": 177.52,
+                "word": " who's"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "start": 177.52,
+        "end": 183.24,
+        "text": " looking for an authentic experience and you know being able to do something that",
+        "words": [
+            {
+                "start": 177.52,
+                "end": 177.72,
+                "word": " looking"
+            },
+            {
+                "start": 177.72,
+                "end": 177.94,
+                "word": " for"
+            },
+            {
+                "start": 177.94,
+                "end": 178.22,
+                "word": " an"
+            },
+            {
+                "start": 178.22,
+                "end": 178.66,
+                "word": " authentic"
+            },
+            {
+                "start": 178.66,
+                "end": 179.38,
+                "word": " experience"
+            },
+            {
+                "start": 179.38,
+                "end": 180.06,
+                "word": " and"
+            },
+            {
+                "start": 180.06,
+                "end": 180.88,
+                "word": " you"
+            },
+            {
+                "start": 180.88,
+                "end": 181.02,
+                "word": " know"
+            },
+            {
+                "start": 181.02,
+                "end": 181.28,
+                "word": " being"
+            },
+            {
+                "start": 181.28,
+                "end": 181.68,
+                "word": " able"
+            },
+            {
+                "start": 181.68,
+                "end": 181.98,
+                "word": " to"
+            },
+            {
+                "start": 181.98,
+                "end": 182.54,
+                "word": " do"
+            },
+            {
+                "start": 182.54,
+                "end": 182.94,
+                "word": " something"
+            },
+            {
+                "start": 182.94,
+                "end": 183.24,
+                "word": " that"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "start": 183.24,
+        "end": 192.3,
+        "text": " But it's real and authentic and helps the locals, definitely, you know, considerable",
+        "words": [
+            {
+                "start": 183.24,
+                "end": 183.36,
+                "word": " But"
+            },
+            {
+                "start": 183.36,
+                "end": 184.8,
+                "word": " it's"
+            },
+            {
+                "start": 184.8,
+                "end": 185.26,
+                "word": " real"
+            },
+            {
+                "start": 185.26,
+                "end": 185.86,
+                "word": " and"
+            },
+            {
+                "start": 185.86,
+                "end": 186.46,
+                "word": " authentic"
+            },
+            {
+                "start": 186.46,
+                "end": 187.4,
+                "word": " and"
+            },
+            {
+                "start": 187.4,
+                "end": 188.68,
+                "word": " helps"
+            },
+            {
+                "start": 188.68,
+                "end": 189.66,
+                "word": " the"
+            },
+            {
+                "start": 189.66,
+                "end": 189.96,
+                "word": " locals,"
+            },
+            {
+                "start": 190.24,
+                "end": 190.62,
+                "word": " definitely,"
+            },
+            {
+                "start": 191.66,
+                "end": 191.74,
+                "word": " you"
+            },
+            {
+                "start": 191.74,
+                "end": 191.82,
+                "word": " know,"
+            },
+            {
+                "start": 191.92,
+                "end": 192.3,
+                "word": " considerable"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "start": 192.3,
+        "end": 193.34,
+        "text": " interior like this one.",
+        "words": [
+            {
+                "start": 192.3,
+                "end": 192.74,
+                "word": " interior"
+            },
+            {
+                "start": 192.74,
+                "end": 192.94,
+                "word": " like"
+            },
+            {
+                "start": 192.94,
+                "end": 193.14,
+                "word": " this"
+            },
+            {
+                "start": 193.14,
+                "end": 193.34,
+                "word": " one."
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "start": 194.5,
+        "end": 199.84,
+        "text": " I really, you know, loved the food here and Taiwan is responsible of it.",
+        "words": [
+            {
+                "start": 194.5,
+                "end": 194.96,
+                "word": " I"
+            },
+            {
+                "start": 194.96,
+                "end": 195.86,
+                "word": " really,"
+            },
+            {
+                "start": 196.24,
+                "end": 196.4,
+                "word": " you"
+            },
+            {
+                "start": 196.4,
+                "end": 196.52,
+                "word": " know,"
+            },
+            {
+                "start": 196.64,
+                "end": 196.98,
+                "word": " loved"
+            },
+            {
+                "start": 196.98,
+                "end": 197.2,
+                "word": " the"
+            },
+            {
+                "start": 197.2,
+                "end": 197.4,
+                "word": " food"
+            },
+            {
+                "start": 197.4,
+                "end": 197.74,
+                "word": " here"
+            },
+            {
+                "start": 197.74,
+                "end": 198.08,
+                "word": " and"
+            },
+            {
+                "start": 198.08,
+                "end": 198.44,
+                "word": " Taiwan"
+            },
+            {
+                "start": 198.44,
+                "end": 198.82,
+                "word": " is"
+            },
+            {
+                "start": 198.82,
+                "end": 199.14,
+                "word": " responsible"
+            },
+            {
+                "start": 199.14,
+                "end": 199.6,
+                "word": " of"
+            },
+            {
+                "start": 199.6,
+                "end": 199.84,
+                "word": " it."
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "start": 200.2,
+        "end": 203.02,
+        "text": " He's been cooking all the meals and he's amazing.",
+        "words": [
+            {
+                "start": 200.2,
+                "end": 200.56,
+                "word": " He's"
+            },
+            {
+                "start": 200.56,
+                "end": 200.74,
+                "word": " been"
+            },
+            {
+                "start": 200.74,
+                "end": 201.0,
+                "word": " cooking"
+            },
+            {
+                "start": 201.0,
+                "end": 201.68,
+                "word": " all"
+            },
+            {
+                "start": 201.68,
+                "end": 201.8,
+                "word": " the"
+            },
+            {
+                "start": 201.8,
+                "end": 201.96,
+                "word": " meals"
+            },
+            {
+                "start": 201.96,
+                "end": 202.28,
+                "word": " and"
+            },
+            {
+                "start": 202.28,
+                "end": 202.74,
+                "word": " he's"
+            },
+            {
+                "start": 202.74,
+                "end": 203.02,
+                "word": " amazing."
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "start": 203.42,
+        "end": 204.5,
+        "text": " He's a great host.",
+        "words": [
+            {
+                "start": 203.42,
+                "end": 203.58,
+                "word": " He's"
+            },
+            {
+                "start": 203.58,
+                "end": 203.68,
+                "word": " a"
+            },
+            {
+                "start": 203.68,
+                "end": 204.14,
+                "word": " great"
+            },
+            {
+                "start": 204.14,
+                "end": 204.5,
+                "word": " host."
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "start": 205.42,
+        "end": 206.18,
+        "text": " It's amazing.",
+        "words": [
+            {
+                "start": 205.42,
+                "end": 205.9,
+                "word": " It's"
+            },
+            {
+                "start": 205.9,
+                "end": 206.18,
+                "word": " amazing."
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "start": 209.89999999999998,
+        "end": 214.5,
+        "text": " It's so fun and it's so great to work with.",
+        "words": [
+            {
+                "start": 209.89999999999998,
+                "end": 210.54,
+                "word": " It's"
+            },
+            {
+                "start": 210.54,
+                "end": 210.66,
+                "word": " so"
+            },
+            {
+                "start": 210.66,
+                "end": 210.92,
+                "word": " fun"
+            },
+            {
+                "start": 210.92,
+                "end": 211.32,
+                "word": " and"
+            },
+            {
+                "start": 211.32,
+                "end": 212.0,
+                "word": " it's"
+            },
+            {
+                "start": 212.0,
+                "end": 212.1,
+                "word": " so"
+            },
+            {
+                "start": 212.1,
+                "end": 212.4,
+                "word": " great"
+            },
+            {
+                "start": 212.4,
+                "end": 212.64,
+                "word": " to"
+            },
+            {
+                "start": 212.64,
+                "end": 212.78,
+                "word": " work"
+            },
+            {
+                "start": 212.78,
+                "end": 214.5,
+                "word": " with."
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "start": 217.56,
+        "end": 218.72,
+        "text": " Honey, yes?",
+        "words": [
+            {
+                "start": 217.56,
+                "end": 218.2,
+                "word": " Honey,"
+            },
+            {
+                "start": 218.52,
+                "end": 218.72,
+                "word": " yes?"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "start": 219.98000000000002,
+        "end": 221.08,
+        "text": " Oh, we can eat?",
+        "words": [
+            {
+                "start": 219.98000000000002,
+                "end": 220.62,
+                "word": " Oh,"
+            },
+            {
+                "start": 220.68,
+                "end": 220.82,
+                "word": " we"
+            },
+            {
+                "start": 220.82,
+                "end": 220.94,
+                "word": " can"
+            },
+            {
+                "start": 220.94,
+                "end": 221.08,
+                "word": " eat?"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "start": 225.44,
+        "end": 231.46,
+        "text": " So for the gardening, I've been going from the main house with the terras and everything",
+        "words": [
+            {
+                "start": 225.44,
+                "end": 226.08,
+                "word": " So"
+            },
+            {
+                "start": 226.08,
+                "end": 226.32,
+                "word": " for"
+            },
+            {
+                "start": 226.32,
+                "end": 226.48,
+                "word": " the"
+            },
+            {
+                "start": 226.48,
+                "end": 226.84,
+                "word": " gardening,"
+            },
+            {
+                "start": 227.28,
+                "end": 227.54,
+                "word": " I've"
+            },
+            {
+                "start": 227.54,
+                "end": 227.66,
+                "word": " been"
+            },
+            {
+                "start": 227.66,
+                "end": 227.9,
+                "word": " going"
+            },
+            {
+                "start": 227.9,
+                "end": 228.44,
+                "word": " from"
+            },
+            {
+                "start": 228.44,
+                "end": 229.12,
+                "word": " the"
+            },
+            {
+                "start": 229.12,
+                "end": 229.46,
+                "word": " main"
+            },
+            {
+                "start": 229.46,
+                "end": 229.98,
+                "word": " house"
+            },
+            {
+                "start": 229.98,
+                "end": 230.4,
+                "word": " with"
+            },
+            {
+                "start": 230.4,
+                "end": 230.56,
+                "word": " the"
+            },
+            {
+                "start": 230.56,
+                "end": 230.94,
+                "word": " terras"
+            },
+            {
+                "start": 230.94,
+                "end": 231.12,
+                "word": " and"
+            },
+            {
+                "start": 231.12,
+                "end": 231.46,
+                "word": " everything"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "start": 231.46,
+        "end": 232.66,
+        "text": " and the restaurant.",
+        "words": [
+            {
+                "start": 231.46,
+                "end": 232.1,
+                "word": " and"
+            },
+            {
+                "start": 232.1,
+                "end": 232.22,
+                "word": " the"
+            },
+            {
+                "start": 232.22,
+                "end": 232.66,
+                "word": " restaurant."
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "start": 232.66,
+        "end": 236.26,
+        "text": " just going down this path, take a go!",
+        "words": [
+            {
+                "start": 232.66,
+                "end": 233.56,
+                "word": " just"
+            },
+            {
+                "start": 233.56,
+                "end": 233.94,
+                "word": " going"
+            },
+            {
+                "start": 233.94,
+                "end": 234.24,
+                "word": " down"
+            },
+            {
+                "start": 234.24,
+                "end": 234.6,
+                "word": " this"
+            },
+            {
+                "start": 234.6,
+                "end": 234.92,
+                "word": " path,"
+            },
+            {
+                "start": 235.1,
+                "end": 235.88,
+                "word": " take"
+            },
+            {
+                "start": 235.88,
+                "end": 236.08,
+                "word": " a"
+            },
+            {
+                "start": 236.08,
+                "end": 236.26,
+                "word": " go!"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "start": 242.10000000000002,
+        "end": 248.0,
+        "text": " So today it's all about gardening as you see in my back this garden that we are doing",
+        "words": [
+            {
+                "start": 242.10000000000002,
+                "end": 242.74,
+                "word": " So"
+            },
+            {
+                "start": 242.74,
+                "end": 243.06,
+                "word": " today"
+            },
+            {
+                "start": 243.06,
+                "end": 243.46,
+                "word": " it's"
+            },
+            {
+                "start": 243.46,
+                "end": 243.64,
+                "word": " all"
+            },
+            {
+                "start": 243.64,
+                "end": 243.96,
+                "word": " about"
+            },
+            {
+                "start": 243.96,
+                "end": 244.34,
+                "word": " gardening"
+            },
+            {
+                "start": 244.34,
+                "end": 244.7,
+                "word": " as"
+            },
+            {
+                "start": 244.7,
+                "end": 244.8,
+                "word": " you"
+            },
+            {
+                "start": 244.8,
+                "end": 244.98,
+                "word": " see"
+            },
+            {
+                "start": 244.98,
+                "end": 245.12,
+                "word": " in"
+            },
+            {
+                "start": 245.12,
+                "end": 245.2,
+                "word": " my"
+            },
+            {
+                "start": 245.2,
+                "end": 245.52,
+                "word": " back"
+            },
+            {
+                "start": 245.52,
+                "end": 246.48,
+                "word": " this"
+            },
+            {
+                "start": 246.48,
+                "end": 247.2,
+                "word": " garden"
+            },
+            {
+                "start": 247.2,
+                "end": 247.4,
+                "word": " that"
+            },
+            {
+                "start": 247.4,
+                "end": 247.56,
+                "word": " we"
+            },
+            {
+                "start": 247.56,
+                "end": 247.72,
+                "word": " are"
+            },
+            {
+                "start": 247.72,
+                "end": 248.0,
+                "word": " doing"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "start": 248.0,
+        "end": 258.58,
+        "text": " this indoor garden that we are getting ready so there's gonna be lots of vegetables here in the",
+        "words": [
+            {
+                "start": 248.0,
+                "end": 249.12,
+                "word": " this"
+            },
+            {
+                "start": 249.12,
+                "end": 249.6,
+                "word": " indoor"
+            },
+            {
+                "start": 249.6,
+                "end": 253.98,
+                "word": " garden"
+            },
+            {
+                "start": 253.98,
+                "end": 254.4,
+                "word": " that"
+            },
+            {
+                "start": 254.4,
+                "end": 254.62,
+                "word": " we"
+            },
+            {
+                "start": 254.62,
+                "end": 254.86,
+                "word": " are"
+            },
+            {
+                "start": 254.86,
+                "end": 255.7,
+                "word": " getting"
+            },
+            {
+                "start": 255.7,
+                "end": 255.98,
+                "word": " ready"
+            },
+            {
+                "start": 255.98,
+                "end": 256.36,
+                "word": " so"
+            },
+            {
+                "start": 256.36,
+                "end": 256.78,
+                "word": " there's"
+            },
+            {
+                "start": 256.78,
+                "end": 256.9,
+                "word": " gonna"
+            },
+            {
+                "start": 256.9,
+                "end": 257.1,
+                "word": " be"
+            },
+            {
+                "start": 257.1,
+                "end": 257.48,
+                "word": " lots"
+            },
+            {
+                "start": 257.48,
+                "end": 257.7,
+                "word": " of"
+            },
+            {
+                "start": 257.7,
+                "end": 257.98,
+                "word": " vegetables"
+            },
+            {
+                "start": 257.98,
+                "end": 258.34,
+                "word": " here"
+            },
+            {
+                "start": 258.34,
+                "end": 258.5,
+                "word": " in"
+            },
+            {
+                "start": 258.5,
+                "end": 258.58,
+                "word": " the"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "start": 258.58,
+        "end": 265.52,
+        "text": " future, and I feel so happy and proud of ourselves because this was actually you",
+        "words": [
+            {
+                "start": 258.58,
+                "end": 258.9,
+                "word": " future,"
+            },
+            {
+                "start": 259.16,
+                "end": 259.6,
+                "word": " and"
+            },
+            {
+                "start": 259.6,
+                "end": 259.72,
+                "word": " I"
+            },
+            {
+                "start": 259.72,
+                "end": 259.96,
+                "word": " feel"
+            },
+            {
+                "start": 259.96,
+                "end": 260.4,
+                "word": " so"
+            },
+            {
+                "start": 260.4,
+                "end": 261.04,
+                "word": " happy"
+            },
+            {
+                "start": 261.04,
+                "end": 261.3,
+                "word": " and"
+            },
+            {
+                "start": 261.3,
+                "end": 262.3,
+                "word": " proud"
+            },
+            {
+                "start": 262.3,
+                "end": 262.42,
+                "word": " of"
+            },
+            {
+                "start": 262.42,
+                "end": 262.78,
+                "word": " ourselves"
+            },
+            {
+                "start": 262.78,
+                "end": 263.1,
+                "word": " because"
+            },
+            {
+                "start": 263.1,
+                "end": 263.36,
+                "word": " this"
+            },
+            {
+                "start": 263.36,
+                "end": 263.58,
+                "word": " was"
+            },
+            {
+                "start": 263.58,
+                "end": 264.7,
+                "word": " actually"
+            },
+            {
+                "start": 264.7,
+                "end": 265.52,
+                "word": " you"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "start": 265.52,
+        "end": 272.9,
+        "text": " know this is started yesterday when I kind of dig this hole right here a little",
+        "words": [
+            {
+                "start": 265.52,
+                "end": 265.62,
+                "word": " know"
+            },
+            {
+                "start": 265.62,
+                "end": 265.78,
+                "word": " this"
+            },
+            {
+                "start": 265.78,
+                "end": 265.9,
+                "word": " is"
+            },
+            {
+                "start": 265.9,
+                "end": 266.1,
+                "word": " started"
+            },
+            {
+                "start": 266.1,
+                "end": 266.6,
+                "word": " yesterday"
+            },
+            {
+                "start": 266.6,
+                "end": 266.92,
+                "word": " when"
+            },
+            {
+                "start": 266.92,
+                "end": 267.48,
+                "word": " I"
+            },
+            {
+                "start": 267.48,
+                "end": 269.6,
+                "word": " kind"
+            },
+            {
+                "start": 269.6,
+                "end": 269.8,
+                "word": " of"
+            },
+            {
+                "start": 269.8,
+                "end": 269.96,
+                "word": " dig"
+            },
+            {
+                "start": 269.96,
+                "end": 270.5,
+                "word": " this"
+            },
+            {
+                "start": 270.5,
+                "end": 270.74,
+                "word": " hole"
+            },
+            {
+                "start": 270.74,
+                "end": 271.04,
+                "word": " right"
+            },
+            {
+                "start": 271.04,
+                "end": 271.34,
+                "word": " here"
+            },
+            {
+                "start": 271.34,
+                "end": 272.6,
+                "word": " a"
+            },
+            {
+                "start": 272.6,
+                "end": 272.9,
+                "word": " little"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "start": 272.9,
+        "end": 277.72,
+        "text": " bit deeper so that we have more space for what we're doing right now which is",
+        "words": [
+            {
+                "start": 272.9,
+                "end": 273.08,
+                "word": " bit"
+            },
+            {
+                "start": 273.08,
+                "end": 273.38,
+                "word": " deeper"
+            },
+            {
+                "start": 273.38,
+                "end": 273.64,
+                "word": " so"
+            },
+            {
+                "start": 273.64,
+                "end": 273.82,
+                "word": " that"
+            },
+            {
+                "start": 273.82,
+                "end": 274.1,
+                "word": " we"
+            },
+            {
+                "start": 274.1,
+                "end": 274.52,
+                "word": " have"
+            },
+            {
+                "start": 274.52,
+                "end": 274.84,
+                "word": " more"
+            },
+            {
+                "start": 274.84,
+                "end": 275.16,
+                "word": " space"
+            },
+            {
+                "start": 275.16,
+                "end": 275.72,
+                "word": " for"
+            },
+            {
+                "start": 275.72,
+                "end": 276.5,
+                "word": " what"
+            },
+            {
+                "start": 276.5,
+                "end": 276.66,
+                "word": " we're"
+            },
+            {
+                "start": 276.66,
+                "end": 276.84,
+                "word": " doing"
+            },
+            {
+                "start": 276.84,
+                "end": 277.06,
+                "word": " right"
+            },
+            {
+                "start": 277.06,
+                "end": 277.26,
+                "word": " now"
+            },
+            {
+                "start": 277.26,
+                "end": 277.52,
+                "word": " which"
+            },
+            {
+                "start": 277.52,
+                "end": 277.72,
+                "word": " is"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "start": 277.72,
+        "end": 280.82,
+        "text": " just putting all the plans right here",
+        "words": [
+            {
+                "start": 277.72,
+                "end": 278.04,
+                "word": " just"
+            },
+            {
+                "start": 278.04,
+                "end": 278.34,
+                "word": " putting"
+            },
+            {
+                "start": 278.34,
+                "end": 278.62,
+                "word": " all"
+            },
+            {
+                "start": 278.62,
+                "end": 278.76,
+                "word": " the"
+            },
+            {
+                "start": 278.76,
+                "end": 279.0,
+                "word": " plans"
+            },
+            {
+                "start": 279.0,
+                "end": 279.2,
+                "word": " right"
+            },
+            {
+                "start": 279.2,
+                "end": 280.82,
+                "word": " here"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "start": 285.84,
+        "end": 294.12,
+        "text": " So yeah, it feels very fulfilling and to be honest, you know, it was so cool to just do",
+        "words": [
+            {
+                "start": 285.84,
+                "end": 286.44,
+                "word": " So"
+            },
+            {
+                "start": 286.44,
+                "end": 286.64,
+                "word": " yeah,"
+            },
+            {
+                "start": 286.74,
+                "end": 287.26,
+                "word": " it"
+            },
+            {
+                "start": 287.26,
+                "end": 287.5,
+                "word": " feels"
+            },
+            {
+                "start": 287.5,
+                "end": 287.88,
+                "word": " very"
+            },
+            {
+                "start": 287.88,
+                "end": 288.28,
+                "word": " fulfilling"
+            },
+            {
+                "start": 288.28,
+                "end": 288.9,
+                "word": " and"
+            },
+            {
+                "start": 288.9,
+                "end": 289.62,
+                "word": " to"
+            },
+            {
+                "start": 289.62,
+                "end": 289.72,
+                "word": " be"
+            },
+            {
+                "start": 289.72,
+                "end": 289.94,
+                "word": " honest,"
+            },
+            {
+                "start": 290.12,
+                "end": 290.12,
+                "word": " you"
+            },
+            {
+                "start": 290.12,
+                "end": 290.22,
+                "word": " know,"
+            },
+            {
+                "start": 290.28,
+                "end": 290.36,
+                "word": " it"
+            },
+            {
+                "start": 290.36,
+                "end": 290.54,
+                "word": " was"
+            },
+            {
+                "start": 290.54,
+                "end": 291.04,
+                "word": " so"
+            },
+            {
+                "start": 291.04,
+                "end": 291.52,
+                "word": " cool"
+            },
+            {
+                "start": 291.52,
+                "end": 291.74,
+                "word": " to"
+            },
+            {
+                "start": 291.74,
+                "end": 292.18,
+                "word": " just"
+            },
+            {
+                "start": 292.18,
+                "end": 294.12,
+                "word": " do"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "start": 294.12,
+        "end": 302.1,
+        "text": " this kind of handy jobs and just like, you know, you disconnect for a while and I think it's",
+        "words": [
+            {
+                "start": 294.12,
+                "end": 294.36,
+                "word": " this"
+            },
+            {
+                "start": 294.36,
+                "end": 294.54,
+                "word": " kind"
+            },
+            {
+                "start": 294.54,
+                "end": 294.74,
+                "word": " of"
+            },
+            {
+                "start": 294.74,
+                "end": 295.24,
+                "word": " handy"
+            },
+            {
+                "start": 295.24,
+                "end": 295.88,
+                "word": " jobs"
+            },
+            {
+                "start": 295.88,
+                "end": 296.16,
+                "word": " and"
+            },
+            {
+                "start": 296.16,
+                "end": 296.38,
+                "word": " just"
+            },
+            {
+                "start": 296.38,
+                "end": 296.62,
+                "word": " like,"
+            },
+            {
+                "start": 296.98,
+                "end": 298.08,
+                "word": " you"
+            },
+            {
+                "start": 298.08,
+                "end": 298.18,
+                "word": " know,"
+            },
+            {
+                "start": 298.38,
+                "end": 298.72,
+                "word": " you"
+            },
+            {
+                "start": 298.72,
+                "end": 299.28,
+                "word": " disconnect"
+            },
+            {
+                "start": 299.28,
+                "end": 299.76,
+                "word": " for"
+            },
+            {
+                "start": 299.76,
+                "end": 299.86,
+                "word": " a"
+            },
+            {
+                "start": 299.86,
+                "end": 300.18,
+                "word": " while"
+            },
+            {
+                "start": 300.18,
+                "end": 300.5,
+                "word": " and"
+            },
+            {
+                "start": 300.5,
+                "end": 300.76,
+                "word": " I"
+            },
+            {
+                "start": 300.76,
+                "end": 301.02,
+                "word": " think"
+            },
+            {
+                "start": 301.02,
+                "end": 302.1,
+                "word": " it's"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "start": 302.92,
+        "end": 309.1,
+        "text": " okay and it's actually good to stop thinking and like doing everything on a rush.",
+        "words": [
+            {
+                "start": 302.86,
+                "end": 303.16,
+                "word": " okay"
+            },
+            {
+                "start": 303.16,
+                "end": 303.4,
+                "word": " and"
+            },
+            {
+                "start": 303.4,
+                "end": 303.6,
+                "word": " it's"
+            },
+            {
+                "start": 303.6,
+                "end": 303.88,
+                "word": " actually"
+            },
+            {
+                "start": 303.88,
+                "end": 304.5,
+                "word": " good"
+            },
+            {
+                "start": 304.5,
+                "end": 304.88,
+                "word": " to"
+            },
+            {
+                "start": 304.88,
+                "end": 306.02,
+                "word": " stop"
+            },
+            {
+                "start": 306.02,
+                "end": 306.54,
+                "word": " thinking"
+            },
+            {
+                "start": 306.54,
+                "end": 307.22,
+                "word": " and"
+            },
+            {
+                "start": 307.22,
+                "end": 307.82,
+                "word": " like"
+            },
+            {
+                "start": 307.82,
+                "end": 308.08,
+                "word": " doing"
+            },
+            {
+                "start": 308.08,
+                "end": 308.58,
+                "word": " everything"
+            },
+            {
+                "start": 308.58,
+                "end": 308.74,
+                "word": " on"
+            },
+            {
+                "start": 308.74,
+                "end": 308.82,
+                "word": " a"
+            },
+            {
+                "start": 308.82,
+                "end": 309.1,
+                "word": " rush."
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "start": 309.1,
+        "end": 313.62,
+        "text": " It's okay to just stop for a while and doing this was very relaxing actually",
+        "words": [
+            {
+                "start": 309.1,
+                "end": 309.84,
+                "word": " It's"
+            },
+            {
+                "start": 309.84,
+                "end": 310.04,
+                "word": " okay"
+            },
+            {
+                "start": 310.04,
+                "end": 310.28,
+                "word": " to"
+            },
+            {
+                "start": 310.28,
+                "end": 310.5,
+                "word": " just"
+            },
+            {
+                "start": 310.5,
+                "end": 310.9,
+                "word": " stop"
+            },
+            {
+                "start": 310.9,
+                "end": 311.08,
+                "word": " for"
+            },
+            {
+                "start": 311.08,
+                "end": 311.18,
+                "word": " a"
+            },
+            {
+                "start": 311.18,
+                "end": 311.42,
+                "word": " while"
+            },
+            {
+                "start": 311.42,
+                "end": 311.6,
+                "word": " and"
+            },
+            {
+                "start": 311.6,
+                "end": 311.76,
+                "word": " doing"
+            },
+            {
+                "start": 311.76,
+                "end": 312.0,
+                "word": " this"
+            },
+            {
+                "start": 312.0,
+                "end": 312.22,
+                "word": " was"
+            },
+            {
+                "start": 312.22,
+                "end": 312.56,
+                "word": " very"
+            },
+            {
+                "start": 312.56,
+                "end": 313.02,
+                "word": " relaxing"
+            },
+            {
+                "start": 313.02,
+                "end": 313.62,
+                "word": " actually"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "start": 314.66,
+        "end": 318.22,
+        "text": " And it felt very rewarding when we finally had",
+        "words": [
+            {
+                "start": 314.44,
+                "end": 314.76,
+                "word": " And"
+            },
+            {
+                "start": 314.76,
+                "end": 315.3,
+                "word": " it"
+            },
+            {
+                "start": 315.3,
+                "end": 315.5,
+                "word": " felt"
+            },
+            {
+                "start": 315.5,
+                "end": 315.74,
+                "word": " very"
+            },
+            {
+                "start": 315.74,
+                "end": 316.56,
+                "word": " rewarding"
+            },
+            {
+                "start": 316.56,
+                "end": 316.82,
+                "word": " when"
+            },
+            {
+                "start": 316.82,
+                "end": 317.1,
+                "word": " we"
+            },
+            {
+                "start": 317.1,
+                "end": 317.92,
+                "word": " finally"
+            },
+            {
+                "start": 317.92,
+                "end": 318.22,
+                "word": " had"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "start": 319.34000000000003,
+        "end": 321.94,
+        "text": " Everything ready. That was my",
+        "words": [
+            {
+                "start": 319.34000000000003,
+                "end": 319.98,
+                "word": " Everything"
+            },
+            {
+                "start": 319.98,
+                "end": 320.62,
+                "word": " ready."
+            },
+            {
+                "start": 321.04,
+                "end": 321.36,
+                "word": " That"
+            },
+            {
+                "start": 321.36,
+                "end": 321.56,
+                "word": " was"
+            },
+            {
+                "start": 321.56,
+                "end": 321.94,
+                "word": " my"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "start": 322.46000000000004,
+        "end": 330.5,
+        "text": " What I wanted but you may be wanting just to stay in a beautiful island like Kofanggan and work as a social media manager",
+        "words": [
+            {
+                "start": 322.46000000000004,
+                "end": 322.96,
+                "word": " What"
+            },
+            {
+                "start": 322.96,
+                "end": 323.1,
+                "word": " I"
+            },
+            {
+                "start": 323.1,
+                "end": 323.46,
+                "word": " wanted"
+            },
+            {
+                "start": 323.46,
+                "end": 323.78,
+                "word": " but"
+            },
+            {
+                "start": 323.78,
+                "end": 324.34,
+                "word": " you"
+            },
+            {
+                "start": 324.34,
+                "end": 324.5,
+                "word": " may"
+            },
+            {
+                "start": 324.5,
+                "end": 324.64,
+                "word": " be"
+            },
+            {
+                "start": 324.64,
+                "end": 324.98,
+                "word": " wanting"
+            },
+            {
+                "start": 324.98,
+                "end": 325.58,
+                "word": " just"
+            },
+            {
+                "start": 325.58,
+                "end": 325.8,
+                "word": " to"
+            },
+            {
+                "start": 325.8,
+                "end": 326.12,
+                "word": " stay"
+            },
+            {
+                "start": 326.12,
+                "end": 326.28,
+                "word": " in"
+            },
+            {
+                "start": 326.28,
+                "end": 326.36,
+                "word": " a"
+            },
+            {
+                "start": 326.36,
+                "end": 326.68,
+                "word": " beautiful"
+            },
+            {
+                "start": 326.68,
+                "end": 327.04,
+                "word": " island"
+            },
+            {
+                "start": 327.04,
+                "end": 327.3,
+                "word": " like"
+            },
+            {
+                "start": 327.3,
+                "end": 327.98,
+                "word": " Kofanggan"
+            },
+            {
+                "start": 327.98,
+                "end": 328.56,
+                "word": " and"
+            },
+            {
+                "start": 328.56,
+                "end": 328.9,
+                "word": " work"
+            },
+            {
+                "start": 328.9,
+                "end": 329.26,
+                "word": " as"
+            },
+            {
+                "start": 329.26,
+                "end": 329.36,
+                "word": " a"
+            },
+            {
+                "start": 329.36,
+                "end": 329.68,
+                "word": " social"
+            },
+            {
+                "start": 329.68,
+                "end": 330.08,
+                "word": " media"
+            },
+            {
+                "start": 330.08,
+                "end": 330.5,
+                "word": " manager"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "start": 330.5,
+        "end": 335.68,
+        "text": " There's opportunities like that too and you can do them from anywhere in the world",
+        "words": [
+            {
+                "start": 330.5,
+                "end": 330.98,
+                "word": " There's"
+            },
+            {
+                "start": 330.98,
+                "end": 331.46,
+                "word": " opportunities"
+            },
+            {
+                "start": 331.46,
+                "end": 331.82,
+                "word": " like"
+            },
+            {
+                "start": 331.82,
+                "end": 332.02,
+                "word": " that"
+            },
+            {
+                "start": 332.02,
+                "end": 332.38,
+                "word": " too"
+            },
+            {
+                "start": 332.38,
+                "end": 333.24,
+                "word": " and"
+            },
+            {
+                "start": 333.24,
+                "end": 333.54,
+                "word": " you"
+            },
+            {
+                "start": 333.54,
+                "end": 333.66,
+                "word": " can"
+            },
+            {
+                "start": 333.66,
+                "end": 333.8,
+                "word": " do"
+            },
+            {
+                "start": 333.8,
+                "end": 333.96,
+                "word": " them"
+            },
+            {
+                "start": 333.96,
+                "end": 334.28,
+                "word": " from"
+            },
+            {
+                "start": 334.28,
+                "end": 335.02,
+                "word": " anywhere"
+            },
+            {
+                "start": 335.02,
+                "end": 335.22,
+                "word": " in"
+            },
+            {
+                "start": 335.22,
+                "end": 335.32,
+                "word": " the"
+            },
+            {
+                "start": 335.32,
+                "end": 335.68,
+                "word": " world"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "start": 335.68,
+        "end": 340.68,
+        "text": " Yeah, the the way that you can get world packers is to get a girly subscription",
+        "words": [
+            {
+                "start": 335.68,
+                "end": 336.24,
+                "word": " Yeah,"
+            },
+            {
+                "start": 336.82,
+                "end": 336.98,
+                "word": " the"
+            },
+            {
+                "start": 336.98,
+                "end": 337.54,
+                "word": " the"
+            },
+            {
+                "start": 337.54,
+                "end": 337.72,
+                "word": " way"
+            },
+            {
+                "start": 337.72,
+                "end": 337.88,
+                "word": " that"
+            },
+            {
+                "start": 337.88,
+                "end": 338.08,
+                "word": " you"
+            },
+            {
+                "start": 338.08,
+                "end": 338.32,
+                "word": " can"
+            },
+            {
+                "start": 338.32,
+                "end": 338.72,
+                "word": " get"
+            },
+            {
+                "start": 338.72,
+                "end": 338.9,
+                "word": " world"
+            },
+            {
+                "start": 338.9,
+                "end": 339.26,
+                "word": " packers"
+            },
+            {
+                "start": 339.26,
+                "end": 339.42,
+                "word": " is"
+            },
+            {
+                "start": 339.42,
+                "end": 339.58,
+                "word": " to"
+            },
+            {
+                "start": 339.58,
+                "end": 339.74,
+                "word": " get"
+            },
+            {
+                "start": 339.74,
+                "end": 339.88,
+                "word": " a"
+            },
+            {
+                "start": 339.88,
+                "end": 340.2,
+                "word": " girly"
+            },
+            {
+                "start": 340.2,
+                "end": 340.68,
+                "word": " subscription"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "start": 340.68,
+        "end": 346.42,
+        "text": " So you subscribe for one year and it's this price right here and then you have access to",
+        "words": [
+            {
+                "start": 340.68,
+                "end": 340.98,
+                "word": " So"
+            },
+            {
+                "start": 340.98,
+                "end": 341.1,
+                "word": " you"
+            },
+            {
+                "start": 341.1,
+                "end": 341.42,
+                "word": " subscribe"
+            },
+            {
+                "start": 341.42,
+                "end": 341.78,
+                "word": " for"
+            },
+            {
+                "start": 341.78,
+                "end": 342.02,
+                "word": " one"
+            },
+            {
+                "start": 342.02,
+                "end": 342.3,
+                "word": " year"
+            },
+            {
+                "start": 342.3,
+                "end": 342.98,
+                "word": " and"
+            },
+            {
+                "start": 342.98,
+                "end": 343.28,
+                "word": " it's"
+            },
+            {
+                "start": 343.28,
+                "end": 343.46,
+                "word": " this"
+            },
+            {
+                "start": 343.46,
+                "end": 343.68,
+                "word": " price"
+            },
+            {
+                "start": 343.68,
+                "end": 343.9,
+                "word": " right"
+            },
+            {
+                "start": 343.9,
+                "end": 344.12,
+                "word": " here"
+            },
+            {
+                "start": 344.12,
+                "end": 344.8,
+                "word": " and"
+            },
+            {
+                "start": 344.8,
+                "end": 344.96,
+                "word": " then"
+            },
+            {
+                "start": 344.96,
+                "end": 345.28,
+                "word": " you"
+            },
+            {
+                "start": 345.28,
+                "end": 345.5,
+                "word": " have"
+            },
+            {
+                "start": 345.5,
+                "end": 345.96,
+                "word": " access"
+            },
+            {
+                "start": 345.96,
+                "end": 346.42,
+                "word": " to"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "start": 346.42,
+        "end": 350.72,
+        "text": " to basically all of the world packers experiences",
+        "words": [
+            {
+                "start": 346.42,
+                "end": 347.34,
+                "word": " to"
+            },
+            {
+                "start": 347.34,
+                "end": 347.88,
+                "word": " basically"
+            },
+            {
+                "start": 347.88,
+                "end": 348.42,
+                "word": " all"
+            },
+            {
+                "start": 348.42,
+                "end": 349.28,
+                "word": " of"
+            },
+            {
+                "start": 349.28,
+                "end": 349.4,
+                "word": " the"
+            },
+            {
+                "start": 349.4,
+                "end": 349.62,
+                "word": " world"
+            },
+            {
+                "start": 349.62,
+                "end": 350.06,
+                "word": " packers"
+            },
+            {
+                "start": 350.06,
+                "end": 350.72,
+                "word": " experiences"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "start": 350.72,
+        "end": 356.96,
+        "text": " If you use my code you'll get a you got this discount right here once you start world packers",
+        "words": [
+            {
+                "start": 350.72,
+                "end": 351.66,
+                "word": " If"
+            },
+            {
+                "start": 351.66,
+                "end": 351.76,
+                "word": " you"
+            },
+            {
+                "start": 351.76,
+                "end": 351.98,
+                "word": " use"
+            },
+            {
+                "start": 351.98,
+                "end": 352.12,
+                "word": " my"
+            },
+            {
+                "start": 352.12,
+                "end": 352.4,
+                "word": " code"
+            },
+            {
+                "start": 352.4,
+                "end": 352.82,
+                "word": " you'll"
+            },
+            {
+                "start": 352.82,
+                "end": 352.98,
+                "word": " get"
+            },
+            {
+                "start": 352.98,
+                "end": 353.34,
+                "word": " a"
+            },
+            {
+                "start": 353.34,
+                "end": 353.58,
+                "word": " you"
+            },
+            {
+                "start": 353.58,
+                "end": 353.72,
+                "word": " got"
+            },
+            {
+                "start": 353.72,
+                "end": 353.96,
+                "word": " this"
+            },
+            {
+                "start": 353.96,
+                "end": 354.38,
+                "word": " discount"
+            },
+            {
+                "start": 354.38,
+                "end": 354.66,
+                "word": " right"
+            },
+            {
+                "start": 354.66,
+                "end": 354.88,
+                "word": " here"
+            },
+            {
+                "start": 354.88,
+                "end": 355.18,
+                "word": " once"
+            },
+            {
+                "start": 355.18,
+                "end": 355.36,
+                "word": " you"
+            },
+            {
+                "start": 355.36,
+                "end": 355.66,
+                "word": " start"
+            },
+            {
+                "start": 355.66,
+                "end": 356.36,
+                "word": " world"
+            },
+            {
+                "start": 356.36,
+                "end": 356.96,
+                "word": " packers"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "start": 356.96,
+        "end": 358.46,
+        "text": " You know once you apply to the different",
+        "words": [
+            {
+                "start": 356.96,
+                "end": 357.14,
+                "word": " You"
+            },
+            {
+                "start": 357.14,
+                "end": 357.2,
+                "word": " know"
+            },
+            {
+                "start": 357.2,
+                "end": 357.44,
+                "word": " once"
+            },
+            {
+                "start": 357.44,
+                "end": 357.54,
+                "word": " you"
+            },
+            {
+                "start": 357.54,
+                "end": 357.76,
+                "word": " apply"
+            },
+            {
+                "start": 357.76,
+                "end": 358.0,
+                "word": " to"
+            },
+            {
+                "start": 358.0,
+                "end": 358.1,
+                "word": " the"
+            },
+            {
+                "start": 358.1,
+                "end": 358.46,
+                "word": " different"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "start": 359.94000000000005,
+        "end": 365.56,
+        "text": " Positions you will potentially get chosen by one and once that happens",
+        "words": [
+            {
+                "start": 359.94000000000005,
+                "end": 360.52000000000004,
+                "word": " Positions"
+            },
+            {
+                "start": 360.52000000000004,
+                "end": 361.1,
+                "word": " you"
+            },
+            {
+                "start": 361.1,
+                "end": 361.5,
+                "word": " will"
+            },
+            {
+                "start": 361.5,
+                "end": 362.2,
+                "word": " potentially"
+            },
+            {
+                "start": 362.2,
+                "end": 362.76,
+                "word": " get"
+            },
+            {
+                "start": 362.76,
+                "end": 363.14,
+                "word": " chosen"
+            },
+            {
+                "start": 363.14,
+                "end": 363.42,
+                "word": " by"
+            },
+            {
+                "start": 363.42,
+                "end": 363.7,
+                "word": " one"
+            },
+            {
+                "start": 363.7,
+                "end": 364.48,
+                "word": " and"
+            },
+            {
+                "start": 364.48,
+                "end": 364.86,
+                "word": " once"
+            },
+            {
+                "start": 364.86,
+                "end": 365.16,
+                "word": " that"
+            },
+            {
+                "start": 365.16,
+                "end": 365.56,
+                "word": " happens"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "start": 365.68,
+        "end": 370.28,
+        "text": " you you'll be all set having the reviews of other travelers it's extremely",
+        "words": [
+            {
+                "start": 365.68,
+                "end": 366.58,
+                "word": " you"
+            },
+            {
+                "start": 366.58,
+                "end": 367.34,
+                "word": " you'll"
+            },
+            {
+                "start": 367.34,
+                "end": 367.42,
+                "word": " be"
+            },
+            {
+                "start": 367.42,
+                "end": 367.54,
+                "word": " all"
+            },
+            {
+                "start": 367.54,
+                "end": 367.76,
+                "word": " set"
+            },
+            {
+                "start": 367.76,
+                "end": 368.16,
+                "word": " having"
+            },
+            {
+                "start": 368.16,
+                "end": 368.36,
+                "word": " the"
+            },
+            {
+                "start": 368.36,
+                "end": 368.66,
+                "word": " reviews"
+            },
+            {
+                "start": 368.66,
+                "end": 368.9,
+                "word": " of"
+            },
+            {
+                "start": 368.9,
+                "end": 369.2,
+                "word": " other"
+            },
+            {
+                "start": 369.2,
+                "end": 369.58,
+                "word": " travelers"
+            },
+            {
+                "start": 369.58,
+                "end": 369.88,
+                "word": " it's"
+            },
+            {
+                "start": 369.88,
+                "end": 370.28,
+                "word": " extremely"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "start": 370.28,
+        "end": 374.5,
+        "text": " helpful this place for example is a top-rated place for volunteers so that",
+        "words": [
+            {
+                "start": 370.28,
+                "end": 370.76,
+                "word": " helpful"
+            },
+            {
+                "start": 370.76,
+                "end": 371.06,
+                "word": " this"
+            },
+            {
+                "start": 371.06,
+                "end": 371.26,
+                "word": " place"
+            },
+            {
+                "start": 371.26,
+                "end": 371.42,
+                "word": " for"
+            },
+            {
+                "start": 371.42,
+                "end": 371.66,
+                "word": " example"
+            },
+            {
+                "start": 371.66,
+                "end": 372.0,
+                "word": " is"
+            },
+            {
+                "start": 372.0,
+                "end": 372.08,
+                "word": " a"
+            },
+            {
+                "start": 372.08,
+                "end": 372.28,
+                "word": " top"
+            },
+            {
+                "start": 372.28,
+                "end": 372.64,
+                "word": "-rated"
+            },
+            {
+                "start": 372.64,
+                "end": 373.14,
+                "word": " place"
+            },
+            {
+                "start": 373.14,
+                "end": 373.38,
+                "word": " for"
+            },
+            {
+                "start": 373.38,
+                "end": 373.74,
+                "word": " volunteers"
+            },
+            {
+                "start": 373.74,
+                "end": 374.36,
+                "word": " so"
+            },
+            {
+                "start": 374.36,
+                "end": 374.5,
+                "word": " that"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "start": 374.5,
+        "end": 379.26,
+        "text": " means that volunteers that have been here have loved their experience",
+        "words": [
+            {
+                "start": 374.5,
+                "end": 374.68,
+                "word": " means"
+            },
+            {
+                "start": 374.68,
+                "end": 374.96,
+                "word": " that"
+            },
+            {
+                "start": 374.96,
+                "end": 375.42,
+                "word": " volunteers"
+            },
+            {
+                "start": 375.42,
+                "end": 375.66,
+                "word": " that"
+            },
+            {
+                "start": 375.66,
+                "end": 375.98,
+                "word": " have"
+            },
+            {
+                "start": 375.98,
+                "end": 376.2,
+                "word": " been"
+            },
+            {
+                "start": 376.2,
+                "end": 376.44,
+                "word": " here"
+            },
+            {
+                "start": 376.44,
+                "end": 377.3,
+                "word": " have"
+            },
+            {
+                "start": 377.3,
+                "end": 377.84,
+                "word": " loved"
+            },
+            {
+                "start": 377.84,
+                "end": 378.7,
+                "word": " their"
+            },
+            {
+                "start": 378.7,
+                "end": 379.26,
+                "word": " experience"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "start": 380.02,
+        "end": 386.08,
+        "text": " there's also a sort of art and if I am correct this art is actually made by the",
+        "words": [
+            {
+                "start": 380.02,
+                "end": 380.62,
+                "word": " there's"
+            },
+            {
+                "start": 380.62,
+                "end": 380.94,
+                "word": " also"
+            },
+            {
+                "start": 380.94,
+                "end": 381.12,
+                "word": " a"
+            },
+            {
+                "start": 381.12,
+                "end": 381.26,
+                "word": " sort"
+            },
+            {
+                "start": 381.26,
+                "end": 381.4,
+                "word": " of"
+            },
+            {
+                "start": 381.4,
+                "end": 381.9,
+                "word": " art"
+            },
+            {
+                "start": 381.9,
+                "end": 382.4,
+                "word": " and"
+            },
+            {
+                "start": 382.4,
+                "end": 383.18,
+                "word": " if"
+            },
+            {
+                "start": 383.18,
+                "end": 383.4,
+                "word": " I"
+            },
+            {
+                "start": 383.4,
+                "end": 383.54,
+                "word": " am"
+            },
+            {
+                "start": 383.54,
+                "end": 383.88,
+                "word": " correct"
+            },
+            {
+                "start": 383.88,
+                "end": 384.34,
+                "word": " this"
+            },
+            {
+                "start": 384.34,
+                "end": 384.64,
+                "word": " art"
+            },
+            {
+                "start": 384.64,
+                "end": 384.76,
+                "word": " is"
+            },
+            {
+                "start": 384.76,
+                "end": 385.06,
+                "word": " actually"
+            },
+            {
+                "start": 385.06,
+                "end": 385.22,
+                "word": " made"
+            },
+            {
+                "start": 385.22,
+                "end": 385.48,
+                "word": " by"
+            },
+            {
+                "start": 385.48,
+                "end": 386.08,
+                "word": " the"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "start": 394.28,
+        "end": 401.06,
+        "text": " And this is very encouraging and gives you a lot of you know relaxing piece of mind so you're",
+        "words": [
+            {
+                "start": 394.28,
+                "end": 394.88,
+                "word": " And"
+            },
+            {
+                "start": 394.88,
+                "end": 395.48,
+                "word": " this"
+            },
+            {
+                "start": 395.48,
+                "end": 395.94,
+                "word": " is"
+            },
+            {
+                "start": 395.94,
+                "end": 396.32,
+                "word": " very"
+            },
+            {
+                "start": 396.32,
+                "end": 396.84,
+                "word": " encouraging"
+            },
+            {
+                "start": 396.84,
+                "end": 397.28,
+                "word": " and"
+            },
+            {
+                "start": 397.28,
+                "end": 397.54,
+                "word": " gives"
+            },
+            {
+                "start": 397.54,
+                "end": 397.78,
+                "word": " you"
+            },
+            {
+                "start": 397.78,
+                "end": 397.92,
+                "word": " a"
+            },
+            {
+                "start": 397.92,
+                "end": 398.14,
+                "word": " lot"
+            },
+            {
+                "start": 398.14,
+                "end": 398.46,
+                "word": " of"
+            },
+            {
+                "start": 398.46,
+                "end": 398.94,
+                "word": " you"
+            },
+            {
+                "start": 398.94,
+                "end": 399.04,
+                "word": " know"
+            },
+            {
+                "start": 399.04,
+                "end": 399.58,
+                "word": " relaxing"
+            },
+            {
+                "start": 399.58,
+                "end": 399.86,
+                "word": " piece"
+            },
+            {
+                "start": 399.86,
+                "end": 400.04,
+                "word": " of"
+            },
+            {
+                "start": 400.04,
+                "end": 400.34,
+                "word": " mind"
+            },
+            {
+                "start": 400.34,
+                "end": 400.82,
+                "word": " so"
+            },
+            {
+                "start": 400.82,
+                "end": 401.06,
+                "word": " you're"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "start": 401.06,
+        "end": 406.1,
+        "text": " stepping into something that is going to be that is going to be great because you know that of",
+        "words": [
+            {
+                "start": 401.06,
+                "end": 401.32,
+                "word": " stepping"
+            },
+            {
+                "start": 401.32,
+                "end": 401.58,
+                "word": " into"
+            },
+            {
+                "start": 401.58,
+                "end": 401.88,
+                "word": " something"
+            },
+            {
+                "start": 401.88,
+                "end": 402.04,
+                "word": " that"
+            },
+            {
+                "start": 402.04,
+                "end": 402.16,
+                "word": " is"
+            },
+            {
+                "start": 402.16,
+                "end": 402.32,
+                "word": " going"
+            },
+            {
+                "start": 402.32,
+                "end": 402.54,
+                "word": " to"
+            },
+            {
+                "start": 402.54,
+                "end": 402.72,
+                "word": " be"
+            },
+            {
+                "start": 402.72,
+                "end": 403.5,
+                "word": " that"
+            },
+            {
+                "start": 403.5,
+                "end": 403.62,
+                "word": " is"
+            },
+            {
+                "start": 403.62,
+                "end": 403.74,
+                "word": " going"
+            },
+            {
+                "start": 403.74,
+                "end": 403.88,
+                "word": " to"
+            },
+            {
+                "start": 403.88,
+                "end": 403.96,
+                "word": " be"
+            },
+            {
+                "start": 403.96,
+                "end": 404.18,
+                "word": " great"
+            },
+            {
+                "start": 404.18,
+                "end": 404.62,
+                "word": " because"
+            },
+            {
+                "start": 404.62,
+                "end": 405.1,
+                "word": " you"
+            },
+            {
+                "start": 405.1,
+                "end": 405.3,
+                "word": " know"
+            },
+            {
+                "start": 405.3,
+                "end": 405.5,
+                "word": " that"
+            },
+            {
+                "start": 405.5,
+                "end": 406.1,
+                "word": " of"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "start": 406.1,
+        "end": 412.58,
+        "text": " course every experience is different but other people have actually had a great time here and have",
+        "words": [
+            {
+                "start": 406.1,
+                "end": 406.22,
+                "word": " course"
+            },
+            {
+                "start": 406.22,
+                "end": 406.54,
+                "word": " every"
+            },
+            {
+                "start": 406.54,
+                "end": 407.06,
+                "word": " experience"
+            },
+            {
+                "start": 407.06,
+                "end": 407.24,
+                "word": " is"
+            },
+            {
+                "start": 407.24,
+                "end": 407.52,
+                "word": " different"
+            },
+            {
+                "start": 407.52,
+                "end": 407.92,
+                "word": " but"
+            },
+            {
+                "start": 407.92,
+                "end": 408.56,
+                "word": " other"
+            },
+            {
+                "start": 408.56,
+                "end": 408.92,
+                "word": " people"
+            },
+            {
+                "start": 408.92,
+                "end": 409.3,
+                "word": " have"
+            },
+            {
+                "start": 409.3,
+                "end": 410.48,
+                "word": " actually"
+            },
+            {
+                "start": 410.48,
+                "end": 410.82,
+                "word": " had"
+            },
+            {
+                "start": 410.82,
+                "end": 411.12,
+                "word": " a"
+            },
+            {
+                "start": 411.12,
+                "end": 411.48,
+                "word": " great"
+            },
+            {
+                "start": 411.48,
+                "end": 411.8,
+                "word": " time"
+            },
+            {
+                "start": 411.8,
+                "end": 412.2,
+                "word": " here"
+            },
+            {
+                "start": 412.2,
+                "end": 412.44,
+                "word": " and"
+            },
+            {
+                "start": 412.44,
+                "end": 412.58,
+                "word": " have"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "start": 412.58,
+        "end": 418.86,
+        "text": " learned from this experience. It's all about choosing something that really suits you so that when",
+        "words": [
+            {
+                "start": 412.58,
+                "end": 412.94,
+                "word": " learned"
+            },
+            {
+                "start": 412.94,
+                "end": 413.98,
+                "word": " from"
+            },
+            {
+                "start": 413.98,
+                "end": 414.46,
+                "word": " this"
+            },
+            {
+                "start": 414.46,
+                "end": 414.92,
+                "word": " experience."
+            },
+            {
+                "start": 415.12,
+                "end": 415.24,
+                "word": " It's"
+            },
+            {
+                "start": 415.24,
+                "end": 415.44,
+                "word": " all"
+            },
+            {
+                "start": 415.44,
+                "end": 415.74,
+                "word": " about"
+            },
+            {
+                "start": 415.74,
+                "end": 416.34,
+                "word": " choosing"
+            },
+            {
+                "start": 416.34,
+                "end": 416.9,
+                "word": " something"
+            },
+            {
+                "start": 416.9,
+                "end": 417.18,
+                "word": " that"
+            },
+            {
+                "start": 417.18,
+                "end": 417.54,
+                "word": " really"
+            },
+            {
+                "start": 417.54,
+                "end": 417.88,
+                "word": " suits"
+            },
+            {
+                "start": 417.88,
+                "end": 418.18,
+                "word": " you"
+            },
+            {
+                "start": 418.18,
+                "end": 418.54,
+                "word": " so"
+            },
+            {
+                "start": 418.54,
+                "end": 418.68,
+                "word": " that"
+            },
+            {
+                "start": 418.68,
+                "end": 418.86,
+                "word": " when"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "start": 418.86,
+        "end": 425.2,
+        "text": " you get here you're ready and you know exactly what you want to do. You have all sorts of conditions",
+        "words": [
+            {
+                "start": 418.86,
+                "end": 419.0,
+                "word": " you"
+            },
+            {
+                "start": 419.0,
+                "end": 419.14,
+                "word": " get"
+            },
+            {
+                "start": 419.14,
+                "end": 419.46,
+                "word": " here"
+            },
+            {
+                "start": 419.46,
+                "end": 420.08,
+                "word": " you're"
+            },
+            {
+                "start": 420.08,
+                "end": 420.34,
+                "word": " ready"
+            },
+            {
+                "start": 420.34,
+                "end": 420.7,
+                "word": " and"
+            },
+            {
+                "start": 420.7,
+                "end": 420.9,
+                "word": " you"
+            },
+            {
+                "start": 420.9,
+                "end": 421.1,
+                "word": " know"
+            },
+            {
+                "start": 421.1,
+                "end": 421.64,
+                "word": " exactly"
+            },
+            {
+                "start": 421.64,
+                "end": 421.98,
+                "word": " what"
+            },
+            {
+                "start": 421.98,
+                "end": 422.12,
+                "word": " you"
+            },
+            {
+                "start": 422.12,
+                "end": 422.24,
+                "word": " want"
+            },
+            {
+                "start": 422.24,
+                "end": 422.34,
+                "word": " to"
+            },
+            {
+                "start": 422.34,
+                "end": 422.62,
+                "word": " do."
+            },
+            {
+                "start": 423.42,
+                "end": 423.64,
+                "word": " You"
+            },
+            {
+                "start": 423.64,
+                "end": 423.96,
+                "word": " have"
+            },
+            {
+                "start": 423.96,
+                "end": 424.44,
+                "word": " all"
+            },
+            {
+                "start": 424.44,
+                "end": 424.76,
+                "word": " sorts"
+            },
+            {
+                "start": 424.76,
+                "end": 424.88,
+                "word": " of"
+            },
+            {
+                "start": 424.88,
+                "end": 425.2,
+                "word": " conditions"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "start": 425.2,
+        "end": 433.48,
+        "text": " like the hours you're supposed to do the volunteering, just all the skills that you will have to",
+        "words": [
+            {
+                "start": 425.2,
+                "end": 425.7,
+                "word": " like"
+            },
+            {
+                "start": 425.7,
+                "end": 426.26,
+                "word": " the"
+            },
+            {
+                "start": 426.26,
+                "end": 426.54,
+                "word": " hours"
+            },
+            {
+                "start": 426.54,
+                "end": 427.28,
+                "word": " you're"
+            },
+            {
+                "start": 427.28,
+                "end": 427.6,
+                "word": " supposed"
+            },
+            {
+                "start": 427.6,
+                "end": 428.16,
+                "word": " to"
+            },
+            {
+                "start": 428.16,
+                "end": 428.8,
+                "word": " do"
+            },
+            {
+                "start": 428.8,
+                "end": 428.94,
+                "word": " the"
+            },
+            {
+                "start": 428.94,
+                "end": 429.2,
+                "word": " volunteering,"
+            },
+            {
+                "start": 430.02,
+                "end": 430.94,
+                "word": " just"
+            },
+            {
+                "start": 430.94,
+                "end": 431.46,
+                "word": " all"
+            },
+            {
+                "start": 431.46,
+                "end": 431.78,
+                "word": " the"
+            },
+            {
+                "start": 431.78,
+                "end": 432.44,
+                "word": " skills"
+            },
+            {
+                "start": 432.44,
+                "end": 432.7,
+                "word": " that"
+            },
+            {
+                "start": 432.7,
+                "end": 432.92,
+                "word": " you"
+            },
+            {
+                "start": 432.92,
+                "end": 433.1,
+                "word": " will"
+            },
+            {
+                "start": 433.1,
+                "end": 433.32,
+                "word": " have"
+            },
+            {
+                "start": 433.32,
+                "end": 433.48,
+                "word": " to"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "start": 433.48,
+        "end": 439.36,
+        "text": " implement in your position. So just make sure to read all of that and be okay with that and be",
+        "words": [
+            {
+                "start": 433.48,
+                "end": 433.86,
+                "word": " implement"
+            },
+            {
+                "start": 433.86,
+                "end": 434.22,
+                "word": " in"
+            },
+            {
+                "start": 434.22,
+                "end": 434.36,
+                "word": " your"
+            },
+            {
+                "start": 434.36,
+                "end": 434.78,
+                "word": " position."
+            },
+            {
+                "start": 435.34,
+                "end": 435.42,
+                "word": " So"
+            },
+            {
+                "start": 435.42,
+                "end": 435.56,
+                "word": " just"
+            },
+            {
+                "start": 435.56,
+                "end": 435.74,
+                "word": " make"
+            },
+            {
+                "start": 435.74,
+                "end": 435.92,
+                "word": " sure"
+            },
+            {
+                "start": 435.92,
+                "end": 436.06,
+                "word": " to"
+            },
+            {
+                "start": 436.06,
+                "end": 436.22,
+                "word": " read"
+            },
+            {
+                "start": 436.22,
+                "end": 436.36,
+                "word": " all"
+            },
+            {
+                "start": 436.36,
+                "end": 436.52,
+                "word": " of"
+            },
+            {
+                "start": 436.52,
+                "end": 436.66,
+                "word": " that"
+            },
+            {
+                "start": 436.66,
+                "end": 436.9,
+                "word": " and"
+            },
+            {
+                "start": 436.9,
+                "end": 437.06,
+                "word": " be"
+            },
+            {
+                "start": 437.06,
+                "end": 437.26,
+                "word": " okay"
+            },
+            {
+                "start": 437.26,
+                "end": 437.44,
+                "word": " with"
+            },
+            {
+                "start": 437.44,
+                "end": 437.64,
+                "word": " that"
+            },
+            {
+                "start": 437.64,
+                "end": 438.48,
+                "word": " and"
+            },
+            {
+                "start": 438.48,
+                "end": 439.36,
+                "word": " be"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "start": 439.36,
+        "end": 444.1,
+        "text": " a great volunteer because at the end of the day you're staying in this place for a reason",
+        "words": [
+            {
+                "start": 439.36,
+                "end": 439.48,
+                "word": " a"
+            },
+            {
+                "start": 439.48,
+                "end": 439.68,
+                "word": " great"
+            },
+            {
+                "start": 439.68,
+                "end": 440.64,
+                "word": " volunteer"
+            },
+            {
+                "start": 440.64,
+                "end": 441.04,
+                "word": " because"
+            },
+            {
+                "start": 441.04,
+                "end": 441.34,
+                "word": " at"
+            },
+            {
+                "start": 441.34,
+                "end": 441.4,
+                "word": " the"
+            },
+            {
+                "start": 441.4,
+                "end": 441.46,
+                "word": " end"
+            },
+            {
+                "start": 441.46,
+                "end": 441.52,
+                "word": " of"
+            },
+            {
+                "start": 441.52,
+                "end": 441.64,
+                "word": " the"
+            },
+            {
+                "start": 441.64,
+                "end": 441.78,
+                "word": " day"
+            },
+            {
+                "start": 441.78,
+                "end": 442.0,
+                "word": " you're"
+            },
+            {
+                "start": 442.0,
+                "end": 442.26,
+                "word": " staying"
+            },
+            {
+                "start": 442.26,
+                "end": 442.58,
+                "word": " in"
+            },
+            {
+                "start": 442.58,
+                "end": 442.92,
+                "word": " this"
+            },
+            {
+                "start": 442.92,
+                "end": 443.18,
+                "word": " place"
+            },
+            {
+                "start": 443.18,
+                "end": 443.76,
+                "word": " for"
+            },
+            {
+                "start": 443.76,
+                "end": 443.88,
+                "word": " a"
+            },
+            {
+                "start": 443.88,
+                "end": 444.1,
+                "word": " reason"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "start": 444.1,
+        "end": 448.76,
+        "text": " and this is to help the locals. There's plenty of opportunities and if my experience serves",
+        "words": [
+            {
+                "start": 444.1,
+                "end": 444.32,
+                "word": " and"
+            },
+            {
+                "start": 444.32,
+                "end": 444.48,
+                "word": " this"
+            },
+            {
+                "start": 444.48,
+                "end": 444.62,
+                "word": " is"
+            },
+            {
+                "start": 444.62,
+                "end": 444.82,
+                "word": " to"
+            },
+            {
+                "start": 444.82,
+                "end": 445.16,
+                "word": " help"
+            },
+            {
+                "start": 445.16,
+                "end": 445.36,
+                "word": " the"
+            },
+            {
+                "start": 445.36,
+                "end": 445.64,
+                "word": " locals."
+            },
+            {
+                "start": 445.88,
+                "end": 446.24,
+                "word": " There's"
+            },
+            {
+                "start": 446.24,
+                "end": 446.64,
+                "word": " plenty"
+            },
+            {
+                "start": 446.64,
+                "end": 446.86,
+                "word": " of"
+            },
+            {
+                "start": 446.86,
+                "end": 447.26,
+                "word": " opportunities"
+            },
+            {
+                "start": 447.26,
+                "end": 447.66,
+                "word": " and"
+            },
+            {
+                "start": 447.66,
+                "end": 447.82,
+                "word": " if"
+            },
+            {
+                "start": 447.82,
+                "end": 447.96,
+                "word": " my"
+            },
+            {
+                "start": 447.96,
+                "end": 448.4,
+                "word": " experience"
+            },
+            {
+                "start": 448.4,
+                "end": 448.76,
+                "word": " serves"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "start": 448.76,
+        "end": 455.92,
+        "text": " as an example, this was really a good one. I'm really a great, a fantastic one. So guys,",
+        "words": [
+            {
+                "start": 448.76,
+                "end": 449.32,
+                "word": " as"
+            },
+            {
+                "start": 449.32,
+                "end": 449.48,
+                "word": " an"
+            },
+            {
+                "start": 449.48,
+                "end": 449.94,
+                "word": " example,"
+            },
+            {
+                "start": 450.1,
+                "end": 450.68,
+                "word": " this"
+            },
+            {
+                "start": 450.68,
+                "end": 450.84,
+                "word": " was"
+            },
+            {
+                "start": 450.84,
+                "end": 451.08,
+                "word": " really"
+            },
+            {
+                "start": 451.08,
+                "end": 451.2,
+                "word": " a"
+            },
+            {
+                "start": 451.2,
+                "end": 451.34,
+                "word": " good"
+            },
+            {
+                "start": 451.34,
+                "end": 451.56,
+                "word": " one."
+            },
+            {
+                "start": 451.82,
+                "end": 452.02,
+                "word": " I'm"
+            },
+            {
+                "start": 452.02,
+                "end": 452.46,
+                "word": " really"
+            },
+            {
+                "start": 452.46,
+                "end": 453.18,
+                "word": " a"
+            },
+            {
+                "start": 453.18,
+                "end": 453.66,
+                "word": " great,"
+            },
+            {
+                "start": 453.94,
+                "end": 454.14,
+                "word": " a"
+            },
+            {
+                "start": 454.14,
+                "end": 454.62,
+                "word": " fantastic"
+            },
+            {
+                "start": 454.62,
+                "end": 454.96,
+                "word": " one."
+            },
+            {
+                "start": 455.6,
+                "end": 455.78,
+                "word": " So"
+            },
+            {
+                "start": 455.78,
+                "end": 455.92,
+                "word": " guys,"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "start": 456.24,
+        "end": 461.8,
+        "text": " I hope you enjoyed this video and you take the action, you know, I'm all about just telling",
+        "words": [
+            {
+                "start": 456.24,
+                "end": 456.32,
+                "word": " I"
+            },
+            {
+                "start": 456.32,
+                "end": 456.46,
+                "word": " hope"
+            },
+            {
+                "start": 456.46,
+                "end": 456.6,
+                "word": " you"
+            },
+            {
+                "start": 456.6,
+                "end": 456.74,
+                "word": " enjoyed"
+            },
+            {
+                "start": 456.74,
+                "end": 457.06,
+                "word": " this"
+            },
+            {
+                "start": 457.06,
+                "end": 457.36,
+                "word": " video"
+            },
+            {
+                "start": 457.36,
+                "end": 457.94,
+                "word": " and"
+            },
+            {
+                "start": 457.94,
+                "end": 458.26,
+                "word": " you"
+            },
+            {
+                "start": 458.26,
+                "end": 458.62,
+                "word": " take"
+            },
+            {
+                "start": 458.62,
+                "end": 458.92,
+                "word": " the"
+            },
+            {
+                "start": 458.92,
+                "end": 459.32,
+                "word": " action,"
+            },
+            {
+                "start": 459.9,
+                "end": 459.96,
+                "word": " you"
+            },
+            {
+                "start": 459.96,
+                "end": 460.1,
+                "word": " know,"
+            },
+            {
+                "start": 460.42,
+                "end": 460.74,
+                "word": " I'm"
+            },
+            {
+                "start": 460.74,
+                "end": 460.9,
+                "word": " all"
+            },
+            {
+                "start": 460.9,
+                "end": 461.12,
+                "word": " about"
+            },
+            {
+                "start": 461.12,
+                "end": 461.48,
+                "word": " just"
+            },
+            {
+                "start": 461.48,
+                "end": 461.8,
+                "word": " telling"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "start": 461.8,
+        "end": 466.74,
+        "text": " you to go out there and start your own journey because you're not going to regret it and if",
+        "words": [
+            {
+                "start": 461.8,
+                "end": 462.06,
+                "word": " you"
+            },
+            {
+                "start": 462.06,
+                "end": 462.4,
+                "word": " to"
+            },
+            {
+                "start": 462.4,
+                "end": 462.7,
+                "word": " go"
+            },
+            {
+                "start": 462.7,
+                "end": 462.92,
+                "word": " out"
+            },
+            {
+                "start": 462.92,
+                "end": 463.14,
+                "word": " there"
+            },
+            {
+                "start": 463.14,
+                "end": 463.46,
+                "word": " and"
+            },
+            {
+                "start": 463.46,
+                "end": 463.74,
+                "word": " start"
+            },
+            {
+                "start": 463.74,
+                "end": 463.98,
+                "word": " your"
+            },
+            {
+                "start": 463.98,
+                "end": 464.16,
+                "word": " own"
+            },
+            {
+                "start": 464.16,
+                "end": 464.4,
+                "word": " journey"
+            },
+            {
+                "start": 464.4,
+                "end": 464.7,
+                "word": " because"
+            },
+            {
+                "start": 464.7,
+                "end": 464.92,
+                "word": " you're"
+            },
+            {
+                "start": 464.92,
+                "end": 465.02,
+                "word": " not"
+            },
+            {
+                "start": 465.02,
+                "end": 465.16,
+                "word": " going"
+            },
+            {
+                "start": 465.16,
+                "end": 465.26,
+                "word": " to"
+            },
+            {
+                "start": 465.26,
+                "end": 465.54,
+                "word": " regret"
+            },
+            {
+                "start": 465.54,
+                "end": 465.78,
+                "word": " it"
+            },
+            {
+                "start": 465.78,
+                "end": 466.04,
+                "word": " and"
+            },
+            {
+                "start": 466.04,
+                "end": 466.74,
+                "word": " if"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "start": 466.74,
+        "end": 472.7,
+        "text": " If this is the way to do it, then definitely go join this volunteering experience.",
+        "words": [
+            {
+                "start": 466.74,
+                "end": 466.74,
+                "word": " If"
+            },
+            {
+                "start": 466.74,
+                "end": 466.98,
+                "word": " this"
+            },
+            {
+                "start": 466.98,
+                "end": 467.28,
+                "word": " is"
+            },
+            {
+                "start": 467.28,
+                "end": 467.4,
+                "word": " the"
+            },
+            {
+                "start": 467.4,
+                "end": 467.6,
+                "word": " way"
+            },
+            {
+                "start": 467.6,
+                "end": 467.8,
+                "word": " to"
+            },
+            {
+                "start": 467.8,
+                "end": 467.94,
+                "word": " do"
+            },
+            {
+                "start": 467.94,
+                "end": 468.24,
+                "word": " it,"
+            },
+            {
+                "start": 468.58,
+                "end": 468.96,
+                "word": " then"
+            },
+            {
+                "start": 468.96,
+                "end": 470.34,
+                "word": " definitely"
+            },
+            {
+                "start": 470.34,
+                "end": 470.66,
+                "word": " go"
+            },
+            {
+                "start": 470.66,
+                "end": 471.12,
+                "word": " join"
+            },
+            {
+                "start": 471.12,
+                "end": 471.64,
+                "word": " this"
+            },
+            {
+                "start": 471.64,
+                "end": 472.02,
+                "word": " volunteering"
+            },
+            {
+                "start": 472.02,
+                "end": 472.7,
+                "word": " experience."
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "start": 472.9,
+        "end": 477.14,
+        "text": " I'll leave all the links of this platform down below.",
+        "words": [
+            {
+                "start": 472.9,
+                "end": 473.08,
+                "word": " I'll"
+            },
+            {
+                "start": 473.08,
+                "end": 473.14,
+                "word": " leave"
+            },
+            {
+                "start": 473.14,
+                "end": 473.38,
+                "word": " all"
+            },
+            {
+                "start": 473.38,
+                "end": 473.52,
+                "word": " the"
+            },
+            {
+                "start": 473.52,
+                "end": 473.74,
+                "word": " links"
+            },
+            {
+                "start": 473.74,
+                "end": 474.02,
+                "word": " of"
+            },
+            {
+                "start": 474.02,
+                "end": 474.44,
+                "word": " this"
+            },
+            {
+                "start": 474.44,
+                "end": 476.32,
+                "word": " platform"
+            },
+            {
+                "start": 476.32,
+                "end": 476.84,
+                "word": " down"
+            },
+            {
+                "start": 476.84,
+                "end": 477.14,
+                "word": " below."
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "start": 477.34,
+        "end": 484.24,
+        "text": " So definitely go check them out and yeah, I hope you enjoy your day and I'll see you guys",
+        "words": [
+            {
+                "start": 477.34,
+                "end": 477.36,
+                "word": " So"
+            },
+            {
+                "start": 477.36,
+                "end": 477.66,
+                "word": " definitely"
+            },
+            {
+                "start": 477.66,
+                "end": 477.92,
+                "word": " go"
+            },
+            {
+                "start": 477.92,
+                "end": 478.26,
+                "word": " check"
+            },
+            {
+                "start": 478.26,
+                "end": 478.44,
+                "word": " them"
+            },
+            {
+                "start": 478.44,
+                "end": 478.7,
+                "word": " out"
+            },
+            {
+                "start": 478.7,
+                "end": 479.74,
+                "word": " and"
+            },
+            {
+                "start": 479.74,
+                "end": 480.34,
+                "word": " yeah,"
+            },
+            {
+                "start": 480.6,
+                "end": 480.82,
+                "word": " I"
+            },
+            {
+                "start": 480.82,
+                "end": 481.0,
+                "word": " hope"
+            },
+            {
+                "start": 481.0,
+                "end": 481.18,
+                "word": " you"
+            },
+            {
+                "start": 481.18,
+                "end": 481.5,
+                "word": " enjoy"
+            },
+            {
+                "start": 481.5,
+                "end": 482.86,
+                "word": " your"
+            },
+            {
+                "start": 482.86,
+                "end": 483.12,
+                "word": " day"
+            },
+            {
+                "start": 483.12,
+                "end": 483.58,
+                "word": " and"
+            },
+            {
+                "start": 483.58,
+                "end": 483.76,
+                "word": " I'll"
+            },
+            {
+                "start": 483.76,
+                "end": 483.88,
+                "word": " see"
+            },
+            {
+                "start": 483.88,
+                "end": 484.04,
+                "word": " you"
+            },
+            {
+                "start": 484.04,
+                "end": 484.24,
+                "word": " guys"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "start": 484.24,
+        "end": 485.54,
+        "text": " in the next adventure.",
+        "words": [
+            {
+                "start": 484.24,
+                "end": 484.68,
+                "word": " in"
+            },
+            {
+                "start": 484.68,
+                "end": 484.82,
+                "word": " the"
+            },
+            {
+                "start": 484.82,
+                "end": 485.04,
+                "word": " next"
+            },
+            {
+                "start": 485.04,
+                "end": 485.54,
+                "word": " adventure."
+            }
+        ]
+    }
+]

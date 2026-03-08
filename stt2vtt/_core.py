@@ -42,11 +42,6 @@ def _seconds_to_vtt_time(seconds: float) -> str:
     return f"{hours:02d}:{minutes:02d}:{secs:02d}.{milliseconds:03d}"
 
 
-def _capitalize_text(text: str) -> str:
-    text = text.strip()
-    return text[0].upper() + text[1:] if text else text
-
-
 def _end_with_stop_char(text: str) -> bool:
     if not text:
         return False
@@ -105,9 +100,8 @@ def _segments_to_subtitle(segments: List[SimpleNamespace]) -> List[dict]:
                 seg_text += word.word
 
                 if _end_with_stop_char(word.word):
+                    # Break at punctuation for short lines; strip punctuation from output
                     seg_text = seg_text[:-1]
-                    if not seg_text:
-                        continue
                     if seg_start < seg_end and seg_text.strip():
                         subtitles.append(
                             {"msg": seg_text, "start_time": seg_start, "end_time": seg_end}
@@ -140,7 +134,7 @@ def _format_vtt(subtitles: List[dict]) -> str:
         end = sub.get("end_time", 0)
         start_str = _seconds_to_vtt_time(start)
         end_str = _seconds_to_vtt_time(end)
-        text = _capitalize_text(msg)
+        text = msg.strip()
         lines.append(f"{start_str} --> {end_str}\n{text}\n")
     return "WEBVTT\n\n" + "\n".join(lines)
 
